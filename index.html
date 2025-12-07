@@ -8,30 +8,39 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 <style>
-body { font-family: 'Roboto', sans-serif; margin: 0; background: #eef3f7; }
-header { background: #0b4f91; color: white; padding: 15px; text-align: center; font-size: 20px; }
+body { font-family: 'Roboto', sans-serif; margin: 0; background: #f3f4e7; }
+header { background: #556b2f; color: white; padding: 15px; text-align: center; font-size: 22px; }
 .container { padding: 15px; }
-.search-box input { width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #aaa; }
+.search-box input { width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #777; }
+.filters { display:flex; gap:10px; margin-top:10px; }
+.filters select { flex:1; padding:10px; border-radius:6px; border:1px solid #777; }
 table { width: 100%; border-collapse: collapse; margin-top: 10px; background: white; border-radius: 8px; overflow: hidden; }
-th { background: #0b4f91; color: white; padding: 10px; font-size: 14px; }
+th { background: #556b2f; color: white; padding: 10px; font-size: 14px; }
 td { padding: 10px; border-bottom: 1px solid #ddd; }
-tr:hover { background: #f1f7ff; }
+tr:hover { background: #eef2d5; }
+.stats { background:#fff; padding:12px; border-radius:8px; margin-top:15px; border-left:5px solid #556b2f; }
 .pagination { text-align:center; margin: 15px 0; }
-.pagination button { padding: 8px 14px; margin: 2px; border:none; border-radius:5px; background:#0b4f91; color:white; }
-.pagination button.disabled { background:#999; }
-.tabs { display:flex; background:#0b4f91; }
-.tabs button { flex:1; padding:12px; background:#0b4f91; color:white; border:none; font-size:16px; }
-.tabs button.active { background:#0a3e70; font-weight:bold; }
+.pagination button { padding: 8px 14px; margin: 2px; border:none; border-radius:5px; background:#556b2f; color:white; }
+.tabs { display:flex; background:#556b2f; }
+.tabs button { flex:1; padding:12px; background:#556b2f; color:white; border:none; font-size:16px; }
+.tabs button.active { background:#445522; font-weight:bold; }
 .section { display:none; }
 .section.active { display:block; }
 .input-row { margin:10px 0; }
-.input-row input, .input-row select { width:100%; padding:10px; border:1px solid #aaa; border-radius:6px; }
-.action-btn { background:#0b4f91; color:white; padding:10px; border:none; width:100%; margin-top:10px; border-radius:6px; }
+.input-row input, .input-row select { width:100%; padding:10px; border:1px solid #777; border-radius:6px; }
+.action-btn { background:#556b2f; color:white; padding:10px; border:none; width:100%; margin-top:10px; border-radius:6px; }
 </style>
 </head>
 <body>
-<header>📚 Tủ Sách Tiểu Đoàn 4</header>
-<div class="tabs">
+<header style="display:flex;align-items:center;gap:10px;justify-content:center;">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA1IAAAHHCAIAAAA6cP6JAAAQAElEQVR4AeydB6AUtfb/z0kyM7t776WD" alt="HVKTQS" style="height:40px; border-radius:6px; background:white; padding:4px;">
+  <span>📚 Tủ Sách Tiểu Đoàn 4</span>
+</header>
+<div style="padding:10px; background:#f3f4e7; text-align:center;">
+  <input id="adminPass" type="password" placeholder="Nhập mật khẩu quản lý..." style="padding:10px;width:70%;border-radius:6px;border:1px solid #666;">
+  <button onclick="checkAdmin()" style="padding:10px 15px;margin-left:5px;background:#556b2f;color:white;border:none;border-radius:6px;">🔐 Đăng nhập</button>
+</div>
+<div class="tabs" id="mainTabs" style="display:none;">
   <button class="active" onclick="openTab('books')">Danh mục sách</button>
   <button onclick="openTab('borrow')">Mượn - Trả</button>
 </div>
@@ -43,13 +52,18 @@ tr:hover { background: #f1f7ff; }
   <div class="search-box">
     <input id="searchInput" placeholder="🔎 Tìm kiếm sách..." onkeyup="searchBooks()">
   </div>
+  <div class="filters">
+    <select id="authorFilter" onchange="applyFilters()"><option value="">Lọc theo tác giả</option></select>
+    <select id="yearFilter" onchange="applyFilters()"><option value="">Lọc theo năm</option></select>
+  </div>
+  <div class="stats" id="statsBox">Tổng số sách: 0 • Đang mượn: 0</div>
   <table>
     <thead>
       <tr><th>Mã</th><th>Sách</th><th>Tác giả</th></tr>
     </thead>
     <tbody id="bookTable"></tbody>
   </table>
-  <div class="pagination" id="pagination"></div>
+  <div class="pagination" id="pagination"></div>" id="pagination"></div>
 </div>
 
 <!-- QUẢN LÝ MƯỢN TRẢ -->
@@ -71,6 +85,19 @@ tr:hover { background: #f1f7ff; }
 </div>
 
 <script>
+let adminMode = false;
+const ADMIN_PASSWORD = "ngducquy";
+function checkAdmin(){
+  let p = document.getElementById('adminPass').value;
+  if(p === ADMIN_PASSWORD){
+    adminMode = true;
+    document.getElementById('mainTabs').style.display = 'flex';
+    alert('Đăng nhập quản lý thành công!');
+  } else {
+    alert('Sai mật khẩu!');
+  }
+}
+
 let books = [];
 let borrowList = [];
 let currentPage = 1;
