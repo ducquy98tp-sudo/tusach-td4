@@ -1,51 +1,166 @@
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Tủ sách TD4 - Smartphone</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 <style>
-body { font-family: Arial; margin: 10px; }
-.container { max-width: 900px; margin: auto; }
-table { width:100%; border-collapse:collapse; margin-top:15px; }
-th,td { border:1px solid #ccc; padding:8px; font-size:14px; }
-th { background:#f0f0f0; }
-@media (max-width:600px){
-  table { display:block; overflow-x:auto; }
-}
+body { font-family: 'Roboto', sans-serif; margin: 0; background: #eef3f7; }
+header { background: #0b4f91; color: white; padding: 15px; text-align: center; font-size: 20px; }
+.container { padding: 15px; }
+.search-box input { width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #aaa; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; background: white; border-radius: 8px; overflow: hidden; }
+th { background: #0b4f91; color: white; padding: 10px; font-size: 14px; }
+td { padding: 10px; border-bottom: 1px solid #ddd; }
+tr:hover { background: #f1f7ff; }
+.pagination { text-align:center; margin: 15px 0; }
+.pagination button { padding: 8px 14px; margin: 2px; border:none; border-radius:5px; background:#0b4f91; color:white; }
+.pagination button.disabled { background:#999; }
+.tabs { display:flex; background:#0b4f91; }
+.tabs button { flex:1; padding:12px; background:#0b4f91; color:white; border:none; font-size:16px; }
+.tabs button.active { background:#0a3e70; font-weight:bold; }
+.section { display:none; }
+.section.active { display:block; }
+.input-row { margin:10px 0; }
+.input-row input, .input-row select { width:100%; padding:10px; border:1px solid #aaa; border-radius:6px; }
+.action-btn { background:#0b4f91; color:white; padding:10px; border:none; width:100%; margin-top:10px; border-radius:6px; }
 </style>
 </head>
 <body>
+<header>📚 Tủ Sách Tiểu Đoàn 4</header>
+<div class="tabs">
+  <button class="active" onclick="openTab('books')">Danh mục sách</button>
+  <button onclick="openTab('borrow')">Mượn - Trả</button>
+</div>
+
 <div class="container">
-<h2>📚 Danh mục sách Tiểu đoàn 4</h2>
-<table id="bookTable">
-<thead>
-<tr>
-  <th>Mã</th>
-  <th>Tên sách</th>
-  <th>Tác giả</th>
-</tr>
-</thead>
-<tbody></tbody>
-</table>
+
+<!-- DANH MỤC SÁCH -->
+<div id="books" class="section active">
+  <div class="search-box">
+    <input id="searchInput" placeholder="🔎 Tìm kiếm sách..." onkeyup="searchBooks()">
+  </div>
+  <table>
+    <thead>
+      <tr><th>Mã</th><th>Sách</th><th>Tác giả</th></tr>
+    </thead>
+    <tbody id="bookTable"></tbody>
+  </table>
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<!-- QUẢN LÝ MƯỢN TRẢ -->
+<div id="borrow" class="section">
+  <h3>Mượn sách</h3>
+  <div class="input-row"><select id="borrowBook"></select></div>
+  <div class="input-row"><input id="borrower" placeholder="Người mượn"></div>
+  <div class="input-row"><input id="unit" placeholder="Đơn vị"></div>
+  <div class="input-row"><input id="note" placeholder="Ghi chú"></div>
+  <button class="action-btn" onclick="borrowBookAction()">📘 Mượn sách</button>
+
+  <h3 style="margin-top:25px;">Danh sách đang mượn</h3>
+  <table>
+    <thead><tr><th>Sách</th><th>Người mượn</th><th>Đơn vị</th><th>Ngày</th><th></th></tr></thead>
+    <tbody id="borrowTable"></tbody>
+  </table>
+</div>
+
 </div>
 
 <script>
+let books = [];
+let borrowList = [];
+let currentPage = 1;
+const itemsPerPage = 20;
+
 fetch('books.json')
   .then(res => res.json())
-  .then(data => {
-      const tbody = document.querySelector('#bookTable tbody');
-      data.forEach(b => {
-        tbody.innerHTML += `
-          <tr>
-            <td>${b.code}</td>
-            <td>${b.title}</td>
-            <td>${b.author}</td>
-          </tr>`;
-      });
-  });
-</script>
+  .then(data => { books = data; loadBooks(); loadBorrowDropdown(); });
 
+function loadBooks() {
+  let table = document.getElementById('bookTable');
+  table.innerHTML = '';
+  let start = (currentPage - 1) * itemsPerPage;
+  let end = start + itemsPerPage;
+  let pageItems = books.slice(start, end);
+
+  pageItems.forEach(b => {
+    table.innerHTML += `<tr><td>${b.code}</td><td>${b.title}</td><td>${b.author}</td></tr>`;
+  });
+
+  loadPagination();
+}
+
+function loadPagination() {
+  let totalPages = Math.ceil(books.length / itemsPerPage);
+  let pag = document.getElementById('pagination');
+  pag.innerHTML = '';
+
+  for (let i = 1; i <= totalPages; i++) {
+    pag.innerHTML += `<button onclick="gotoPage(${i})" class="${i===currentPage?'active':''}">${i}</button>`;
+  }
+}
+
+function gotoPage(p) { currentPage = p; loadBooks(); }
+
+function searchBooks() {
+  let text = document.getElementById('searchInput').value.toLowerCase();
+  books = books.filter(b => b.title.toLowerCase().includes(text));
+  currentPage = 1; loadBooks();
+}
+
+function openTab(id) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  event.target.classList.add('active');
+}
+
+function loadBorrowDropdown() {
+  let dropdown = document.getElementById('borrowBook');
+  dropdown.innerHTML = '';
+  books.forEach((b,i)=>dropdown.innerHTML += `<option value="${i}">${b.title}</option>`);
+}
+
+function borrowBookAction() {
+  let idx = document.getElementById('borrowBook').value;
+  let borrower = document.getElementById('borrower').value.trim();
+  if (!borrower) return alert('Nhập tên người mượn');
+
+  borrowList.push({
+    title: books[idx].title,
+    borrower,
+    unit: document.getElementById('unit').value,
+    note: document.getElementById('note').value,
+    date: new Date().toLocaleDateString('vi-VN')
+  });
+
+  renderBorrowTable();
+  document.getElementById('borrower').value = '';
+  document.getElementById('unit').value = '';
+  document.getElementById('note').value = '';
+}
+
+function renderBorrowTable() {
+  let tb = document.getElementById('borrowTable');
+  tb.innerHTML = '';
+  borrowList.forEach((b,i)=>{
+    tb.innerHTML += `<tr>
+      <td>${b.title}</td>
+      <td>${b.borrower}</td>
+      <td>${b.unit}</td>
+      <td>${b.date}</td>
+      <td><button onclick="removeBorrow(${i})">❌</button></td></tr>`;
+  });
+}
+
+function removeBorrow(i) {
+  borrowList.splice(i,1);
+  renderBorrowTable();
+}
+</script>
 </body>
 </html>
