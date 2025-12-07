@@ -1,0 +1,7112 @@
+[
+  {
+    "code": "S0001",
+    "title": "Lõm",
+    "author": "Sơn Tùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0002",
+    "title": "Những bí quyết của cuộc sống",
+    "author": "Lan Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0003",
+    "title": "Giá tôi có thể ngăn trái tim tan vỡ",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0004",
+    "title": "Cánh én bạc trời xanh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0005",
+    "title": "Bên cung đường Trường Sơn",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0006",
+    "title": "Đi qua mùa giông tố",
+    "author": "Đặng thiên sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0007",
+    "title": "Mùa hoa nghệ rừng",
+    "author": "Hoàng tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0008",
+    "title": "Gia đình là tất cả",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0009",
+    "title": "Người bên bóng núi",
+    "author": "Trần Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0010",
+    "title": "Húc bi tráng",
+    "author": "Bùi việt thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0011",
+    "title": "Còn lại những yêu thương",
+    "author": "Đặng thiên sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0012",
+    "title": "Chạm tay vào cánh chim trời",
+    "author": "Nguyễn văn học",
+    "borrowed": false
+  },
+  {
+    "code": "S0013",
+    "title": "Bạn đang bận gì Thành công đến như thế nào",
+    "author": "Hồi thương",
+    "borrowed": false
+  },
+  {
+    "code": "S0014",
+    "title": "Bên lề đường băng",
+    "author": "Nguễn công huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0015",
+    "title": "Nhũng khung bậc thời gian",
+    "author": "Lê thanh định",
+    "borrowed": false
+  },
+  {
+    "code": "S0016",
+    "title": "Giới hạn",
+    "author": "Trần ngọc dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0017",
+    "title": "Bài học về sự hy sinh",
+    "author": "Trung kiên",
+    "borrowed": false
+  },
+  {
+    "code": "S0018",
+    "title": "Những mùa hoa trên cao nguyên đá",
+    "author": "Đặng thuỳ tiên",
+    "borrowed": false
+  },
+  {
+    "code": "S0019",
+    "title": "Cổ tích các loại hoa",
+    "author": "Vũ bích thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0020",
+    "title": "Những đứa con của sói",
+    "author": "Lê hồng vân",
+    "borrowed": false
+  },
+  {
+    "code": "S0021",
+    "title": "Sớm phố chiều quê",
+    "author": "Hoàng khánh duy",
+    "borrowed": false
+  },
+  {
+    "code": "S0022",
+    "title": "Hồn sen",
+    "author": "Nguyễn mạnh hùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0023",
+    "title": "Bếp lửa ngày cuối năm",
+    "author": "Nguyễn văn học",
+    "borrowed": false
+  },
+  {
+    "code": "S0024",
+    "title": "Giọt nước mắt màu đỏ",
+    "author": "An hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0025",
+    "title": "Mầu xanh ký ức",
+    "author": "THiên sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0026",
+    "title": "Dòng sông hoa lửa",
+    "author": "Trần cảnh yên",
+    "borrowed": false
+  },
+  {
+    "code": "S0027",
+    "title": "Lão tướng vào trại giặc",
+    "author": "Phùng văn khai",
+    "borrowed": false
+  },
+  {
+    "code": "S0028",
+    "title": "Người độc thân vui tính",
+    "author": "Vương tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0029",
+    "title": "Ngoái đầu nhìn lại",
+    "author": "Y ban",
+    "borrowed": false
+  },
+  {
+    "code": "S0030",
+    "title": "Bảo tàng người lính",
+    "author": "Lê xuân thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0031",
+    "title": "Chuyển ở đại đội 3",
+    "author": "Thái nam anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0032",
+    "title": "Chuyện thần kỳ về tàu không số",
+    "author": "Hà châu",
+    "borrowed": false
+  },
+  {
+    "code": "S0033",
+    "title": "Khoảng trời cao xanh",
+    "author": "Phan thức",
+    "borrowed": false
+  },
+  {
+    "code": "S0034",
+    "title": "Trên những cung đường",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0035",
+    "title": "Khúc sông một thời trẻ tuổi",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0036",
+    "title": "Nắng ở đồi hoang",
+    "author": "Cao nguyệt nguyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0037",
+    "title": "Đời sông như đời người trên sông",
+    "author": "Hoàng khánh duy",
+    "borrowed": false
+  },
+  {
+    "code": "S0038",
+    "title": "Thân thương làng",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0039",
+    "title": "Phăng đỏ",
+    "author": "Bùi thu hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0040",
+    "title": "Hoa đêm",
+    "author": "Vĩnh trà",
+    "borrowed": false
+  },
+  {
+    "code": "S0041",
+    "title": "Người đẹp ở bản hoa",
+    "author": "Nguyễn xuân hài",
+    "borrowed": false
+  },
+  {
+    "code": "S0042",
+    "title": "Đất khách",
+    "author": "Nguyễn công tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0043",
+    "title": "Tự học excel với kế toán doanh nghiệp",
+    "author": "đức tùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0044",
+    "title": "Người mang mật danh báo đen",
+    "author": "Đinh Văn Lời",
+    "borrowed": false
+  },
+  {
+    "code": "S0045",
+    "title": "Thâm tâm",
+    "author": "Nguyễn Tuấn Trinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0046",
+    "title": "Một số trận đánh tiêu biểu của dân quân tự vệ và bộ đội địa phương trong chiến tranh giải phóng Tập 1",
+    "author": "Thiếu tướng Phạm Quang Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0047",
+    "title": "Sóng vỗ từ ký ức",
+    "author": "Đào Ngọc Vinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0048",
+    "title": "Thủ lĩnh rừng già tập 2",
+    "author": "Hà Lâm Kỳ",
+    "borrowed": false
+  },
+  {
+    "code": "S0049",
+    "title": "Thời không thể quên",
+    "author": "Hồ Anh Thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0050",
+    "title": "Trái tim huyền thoại",
+    "author": "Hữu Phương",
+    "borrowed": false
+  },
+  {
+    "code": "S0051",
+    "title": "Một thoáng bóng câu",
+    "author": "Lê Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0052",
+    "title": "Mảnh khăn trắng muốt Tập 1",
+    "author": "Hào Vũ",
+    "borrowed": false
+  },
+  {
+    "code": "S0053",
+    "title": "Nhãn cười",
+    "author": "Trần Nguyên Mỹ",
+    "borrowed": false
+  },
+  {
+    "code": "S0054",
+    "title": "Có người gác giữa mùa mưa",
+    "author": "Đinh Thành Trung",
+    "borrowed": false
+  },
+  {
+    "code": "S0055",
+    "title": "Theo dòng sáng tạo",
+    "author": "Mai Nam Thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0056",
+    "title": "Bài học lớn từ những câu chuyện nhỏ",
+    "author": "Nguyễn Thanh Hà",
+    "borrowed": false
+  },
+  {
+    "code": "S0057",
+    "title": "Chuyện tình miền nắng xanh",
+    "author": "Dương Phượng Toại",
+    "borrowed": false
+  },
+  {
+    "code": "S0058",
+    "title": "Danh thơm một vùng đất",
+    "author": "Nguyễn Minh Ngọc",
+    "borrowed": false
+  },
+  {
+    "code": "S0059",
+    "title": "Bãi Vắng",
+    "author": "Tùng Điển",
+    "borrowed": false
+  },
+  {
+    "code": "S0060",
+    "title": "Niềm tin và sức mạnh chiến thắng B-52",
+    "author": "Báo pkkq",
+    "borrowed": false
+  },
+  {
+    "code": "S0061",
+    "title": "Con đường anh đi",
+    "author": "Huyền Văn",
+    "borrowed": false
+  },
+  {
+    "code": "S0062",
+    "title": "Chúa đất miền khau sưa",
+    "author": "Hoàng Thế Sinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0063",
+    "title": "Quả ngọt cuối mùa",
+    "author": "Lưu lan phương",
+    "borrowed": false
+  },
+  {
+    "code": "S0064",
+    "title": "Sơn dương trắng",
+    "author": "Văn thành",
+    "borrowed": false
+  },
+  {
+    "code": "S0065",
+    "title": "Tuổi thơ không cha",
+    "author": "Thiên tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0066",
+    "title": "Đêm sau mưa",
+    "author": "Vương tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0067",
+    "title": "Mối tình đầu mối tình cuối",
+    "author": "Tôn nữ lệ minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0068",
+    "title": "Ngược dòng thiên di",
+    "author": "Chu thị minh huệ",
+    "borrowed": false
+  },
+  {
+    "code": "S0069",
+    "title": "Sợi tóc",
+    "author": "Thạch lam",
+    "borrowed": false
+  },
+  {
+    "code": "S0070",
+    "title": "Nước mắt thời gian",
+    "author": "Trầm hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0071",
+    "title": "Những gặp gỡ không thể có",
+    "author": "Trần tiễn cao đăng",
+    "borrowed": false
+  },
+  {
+    "code": "S0072",
+    "title": "Những trái tim thắp lửa",
+    "author": "Trịnh Văn Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0073",
+    "title": "Binh pháp chống dịch",
+    "author": "Phạm vân anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0074",
+    "title": "Bí mật trong bóng tối",
+    "author": "Quốc phong",
+    "borrowed": false
+  },
+  {
+    "code": "S0075",
+    "title": "\"Bình mới ,rượi cũ\"của chiến lược diễn biến hoà bình",
+    "author": "Nguyễn bá dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0076",
+    "title": "Đất và người",
+    "author": "Lâm bằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0077",
+    "title": "Giữa mùa hoa pơ lang",
+    "author": "Phạm xuân trường",
+    "borrowed": false
+  },
+  {
+    "code": "S0078",
+    "title": "Thi đua quyết thắng",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0079",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 316",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0080",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 350",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0081",
+    "title": "Thông tin báo cáo viên",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0082",
+    "title": "Tạp chí Cộng Sản",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0083",
+    "title": "Tạp chí quốc phòng toàn dân",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0084",
+    "title": "Tạp trí khoa học chính trị quân sự",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0085",
+    "title": "Tạp trí khoa học quân sự",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0086",
+    "title": "Lửa cao nguyên",
+    "author": "Nguyễn Kim Chung",
+    "borrowed": false
+  },
+  {
+    "code": "S0087",
+    "title": "Phía bên kia của thất bại",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0088",
+    "title": "Trẩy hội non sông",
+    "author": "Khúc Hồng Thiện",
+    "borrowed": false
+  },
+  {
+    "code": "S0089",
+    "title": "Cánh sóng mùa xuân",
+    "author": "Vũ Thị Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0090",
+    "title": "Đối thoại văn hoá",
+    "author": "Nguyễn Thanh Tú",
+    "borrowed": false
+  },
+  {
+    "code": "S0091",
+    "title": "Kỷ vật kháng chiến Tập 11",
+    "author": "TCCTQDNDVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0092",
+    "title": "Câu chuyện một đêm trăng",
+    "author": "Châu La Việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0093",
+    "title": "Đất quần ngư",
+    "author": "Thiếu tướng Vũ Anh Thố",
+    "borrowed": false
+  },
+  {
+    "code": "S0094",
+    "title": "Con trai của mặt trời",
+    "author": "Jack London",
+    "borrowed": false
+  },
+  {
+    "code": "S0095",
+    "title": "Miền mưa xanh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0096",
+    "title": "Tôi đã sống bằng trái tim người khác",
+    "author": "Đỗ Doãn Hoàng",
+    "borrowed": false
+  },
+  {
+    "code": "S0097",
+    "title": "Những tác phẩm báo chí tiêu biểu đoạt giải báo chí quốc gia(2007-2025) Tập 1",
+    "author": "TCCT BÁO QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0098",
+    "title": "Những tác phẩm báo chí tiêu biểu đoạt giải báo chí quốc gia(2007-2025) Tập 2",
+    "author": "TCCT BÁO QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0099",
+    "title": "Tổng kết Đảng lãnh đạo quân sự và quốc phòng trong cách mạng Việt Nam (1945-2000)",
+    "author": "BQP ban chỉ đạo tổng kết chiến tranh",
+    "borrowed": false
+  },
+  {
+    "code": "S0100",
+    "title": "Biên niên sự kiện Đảng lãnh đạo quân sự và quốc phòng trong cách mạng Việt Nam",
+    "author": "BQP ban chỉ đạo tổng kết chiến tranh",
+    "borrowed": false
+  },
+  {
+    "code": "S0101",
+    "title": "Tạp chí báo cáo viên",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0102",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 4(158) tháng 7&8/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0103",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 1(161) tháng 1&2/2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0104",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 5 (189) tháng 9&10/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0105",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 5(189) tháng 9&10/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0106",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 2 (162) tháng 3&4/2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0107",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 1(167) tháng 1&2/2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0108",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 5 (195)tháng 9&10/2022",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0109",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 4(152) 2015",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0110",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 5(159) tháng 9&10/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0111",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 6(154) 2015",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0112",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 4(188) tháng 7&8/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0113",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 6(160) tháng 11&12/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0114",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 6(166) tháng 11&12/2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0115",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 1(149) 2015",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0116",
+    "title": "Tạp chí giáo dục lý luận chính trị quân sự số 2(150) 2015",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0117",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 65 02-2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0118",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 62 8-2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0119",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 64 12-2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0120",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 60 4-2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0121",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 58 12-2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0122",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 61 6-2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0123",
+    "title": "Tạp chí nghiên cứu khoa học và công nghệ quân sự số 59 02-2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0124",
+    "title": "Tạp trí khoa học và kỹ thuật số 197",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0125",
+    "title": "Tạp trí thanh niên quân đội số 101",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0126",
+    "title": "Tạp trí thanh niên quân đội số 96+97",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0127",
+    "title": "Bản tin pháp luật số 86",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0128",
+    "title": "Thông tin báo cáo viên số 4",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0129",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 338",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0130",
+    "title": "Thanh niên quân đội số 92",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0131",
+    "title": "Tạo chí nghệ thuật quân sự Việt Nam",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0132",
+    "title": "Thanh niên quân đội số đặc biệt 96+97",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0133",
+    "title": "Tạp chí quốc phòng toàn dân năm thứ 71",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0134",
+    "title": "Tạp chí khoa học chính trị quân sư số 5",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0135",
+    "title": "Tạp chí khoa học quân sự số 1",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0136",
+    "title": "Thông tin báo cáo viên số 11",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0137",
+    "title": "Tạp chí nghệ thuật quân sự Việt Nam 7(190)",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0138",
+    "title": "Tạp chí quốc phòng toàn dân năm thứ 72",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0139",
+    "title": "Tạp chí quốc phòng toàn dân số 11 -2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0140",
+    "title": "Thông tin báo cáo viên số 5 năm 2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0141",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 214",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0142",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 145",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0143",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 180",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0144",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 205",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0145",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 192",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0146",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 200",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0147",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 195",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0148",
+    "title": "Tạp chí Khoa học và Kỹ thuật số 186",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0149",
+    "title": "Tạp chí Quốc phòng toàn dân số 1",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0150",
+    "title": "Tạp chí nghiên cứu chiến thuật chiến dịch số 95(146)",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0151",
+    "title": "Tạp chí nghiên cứu chiến thuật chiến dịch số 108(159)",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0152",
+    "title": "Lý luận chính trị số 7-2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0153",
+    "title": "Tạp chí quốc phòng toàn dân số 1 -2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0154",
+    "title": "Tạp chí phòng toàn dân số 7 2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0155",
+    "title": "Tạp chí phòng toàn dân số 11 2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0156",
+    "title": "Thanh Niên Quân Đội tự hào tiến bước dưới cờ Đảng",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0157",
+    "title": "Tạp chí nghệ thuật quân sự Việt Nam 8",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0158",
+    "title": "Thanh Niên Quân Đội nhớ lời di chúc theo chân Bác",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0159",
+    "title": "Tạp Chí Khoa học quân sự",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0160",
+    "title": "Thông tin khoa học xã hội và nhân văn quân sự số 196(07-08/2021)",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0161",
+    "title": "Tạp trí xây dựng Đảng 8/2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0162",
+    "title": "Tạp trí quân sự quốc phòng số 24 -2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0163",
+    "title": "Tạp trí lý luận chính trị số 7-2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0164",
+    "title": "Thi Đua Quyết Thắng 30",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0165",
+    "title": "Tạp chí Khoa học Chính Trị Quân sự 4",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0166",
+    "title": "Tạp chí Quốc Phòng Toàn Dân",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0167",
+    "title": "Tạp chí Cộng Sản 948",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0168",
+    "title": "Thông Tin Báo Cáo Viên",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0169",
+    "title": "Tạp chí Nghiên cứu khoa học",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0170",
+    "title": "Tạp chí Quân Huấn 606",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0171",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 322",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0172",
+    "title": "Tạp chí Cộng Sản 112",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0173",
+    "title": "Tạp chí Khoa học và kỹ thuật 190",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0174",
+    "title": "Tạp trí khoa học chính tri quân sự số 5(48) 9&10/2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0175",
+    "title": "Tạp trí khoa học quân sự số8-2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0176",
+    "title": "Tạp trí quân huấn số 600-5/2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0177",
+    "title": "Tạp trí quân huấn số 595-12/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0178",
+    "title": "Tạp trí quân huấn số 579-8/2015",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0179",
+    "title": "Tạp trí khoa học quân sự số 9-9/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0180",
+    "title": "Tạp trí khoa học quân sự số 10-10/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0181",
+    "title": "Tạp trí khoa học quân sự số 1-1/2022",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0182",
+    "title": "Tạp trí quân huấn số 499-12/2008",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0183",
+    "title": "Tạp trí quân huấn số 614-7/2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0184",
+    "title": "Tạp trí quân huấn số 495-8/2008",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0185",
+    "title": "Tạp trí khoa học chính tri quân sự số 4(59) -7&8/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0186",
+    "title": "Tạp trí khoa học chính tri quân sự số 4(41)-7&8/2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0187",
+    "title": "Tạp trí khoa học chính tri quân sự số 4(35)-7&8/2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0188",
+    "title": "Tạp trí khoa học quân sự số 5-5/2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0189",
+    "title": "Tạp trí khoa học quân sự số 8-8/2022",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0190",
+    "title": "Tạp trí quân sự quốc phòng sô 49-9/2022",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0191",
+    "title": "Tạp trí lịch sử quân sự 326 -2/2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0192",
+    "title": "Tạp trí lịch sử quân sự 160 -4/2005",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0193",
+    "title": "Tạp trí nghệ thuật quan sự Việt Nam số 3(156) -5&6/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0194",
+    "title": "Tạp trí thông tin khoa học kỹ thuật quân sự số 343-8/2019",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0195",
+    "title": "Thông tin dân vận sos 159-5/2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0196",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 320",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0197",
+    "title": "Tạp Chí Báo Cáo Viên 5",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0198",
+    "title": "Military science an tẹcnhology",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0199",
+    "title": "Tạp Chí Báo Cáo Viên 3",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0200",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 324",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0201",
+    "title": "Tình hình xu hướng phát triển kỹ thuật quân sự nước ngoài số 341",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0202",
+    "title": "Phụ Nữ Quân Đội 95",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0203",
+    "title": "Phụ Nữ Quân Đội 93",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0204",
+    "title": "Thông tin báo cáo viên 8",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0205",
+    "title": "tạp Chí Giáo dục Lý luận quân Sự 5",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0206",
+    "title": "tạp chí QH",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0207",
+    "title": "Thi Đua Quyết Thắng",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0208",
+    "title": "Tạp chí Khoa học chính trị quân sự 5",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0209",
+    "title": "Khoa học Kỹ Thuật Quân Sự Trong Và ngoài Nước 348",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0210",
+    "title": "Phụ Nữ Quân Đội 96",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0211",
+    "title": "Tạp chí Khoa học chính trị quân sự 4",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0212",
+    "title": "Tạp Chí Báo Cáo Viên 8",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0213",
+    "title": "Thông Tin Dân Vận 142",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0214",
+    "title": "Thông tin KHXH và Nhân Văn QS",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0215",
+    "title": "Đề Cao trách nhiệm và nêu gương",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0216",
+    "title": "Thi Đua Quyết Thắng 35",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0217",
+    "title": "Tạp chí QH 486",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0218",
+    "title": "Bản Tin PL 65",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0219",
+    "title": "Bản Tin PL 98",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0220",
+    "title": "Kỹ Thuật Và trang bị 82",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0221",
+    "title": "Kỹ Thuật Và trang bị 83",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0222",
+    "title": "Tạp chí quốc Phòng toàn dân 12",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0223",
+    "title": "Tạp chí quốc Phòng toàn dân 10",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0224",
+    "title": "Tạp chí quốc Phòng toàn dân 5",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0225",
+    "title": "Tạp chí quốc Phòng toàn dân 8",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0226",
+    "title": "Tạp chí quốc Phòng toàn dân 9",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0227",
+    "title": "Tạp chí quốc Phòng toàn dân 6",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0228",
+    "title": "Tạp chí quốc Phòng toàn dân 4",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0229",
+    "title": "Tạp chí KHQS 8",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0230",
+    "title": "Tạp chí KHQS 9",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0231",
+    "title": "Tạp chí KHQS 12",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0232",
+    "title": "Tạp chí KHQS 1",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0233",
+    "title": "Thanh Niên Quân Đội tự hào tiến bước dưới cờ Đảng 96+97",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0234",
+    "title": "TNQD Mừng Xuân Nhâm Dần 102+103",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0235",
+    "title": "tạp trí thi đua quyết thắng số 13-4/2016",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0236",
+    "title": "Tạp trí công đoàn quốc phòng số 87 -2018",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0237",
+    "title": "Tạp trí công đoàn quốc phòng số 86 -2017",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0238",
+    "title": "Bản tin quân sự thế giới số 45 -1/2022",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0239",
+    "title": "Bản tin quân sự thế giới số 31 -11/2020",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0240",
+    "title": "Bản tin quân sự thế giới số 42 -10/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0241",
+    "title": "Bản tin quân sự thế giới số 41 -9/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0242",
+    "title": "Bản tin quân sự thế giới số 40-8/2021",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0243",
+    "title": "Tạp Chí KH và KT 171",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0244",
+    "title": "Tạp Chí KH và KT 184",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0245",
+    "title": "Tạp Chí KH và KT 198",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0246",
+    "title": "Tạp Chí KH và KT 188",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0247",
+    "title": "Tạp Chí KH và KT 191",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0248",
+    "title": "Tạp Chí KH và KT 173",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0249",
+    "title": "Tạp Chí KH và KT vol 13",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0250",
+    "title": "Tạp Chí KH và KT vol 04 no1",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0251",
+    "title": "Tạp Chí KH và KT vol 16",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0252",
+    "title": "Tạp Chí KH và KT vol 04 no2",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0253",
+    "title": "TNQD Mừng Đảng Mừng Xuân 84+85",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0254",
+    "title": "Thanh Niên Quân Đội 90+91",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0255",
+    "title": "TNQD Mừng Đảng Mừng Xuân Kỷ Hợi 2019 88+89",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0256",
+    "title": "Ghềnh thác cuộc sống",
+    "author": "Hữu Tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0257",
+    "title": "Trờ Về Đất Mẹ",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0258",
+    "title": "Tình Yêu Thời Chiến",
+    "author": "Nguyễn Xuân Nhĩ",
+    "borrowed": false
+  },
+  {
+    "code": "S0259",
+    "title": "Tiếng Chim Cú Kêu Đêm",
+    "author": "Nguyễn Chí Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0260",
+    "title": "Con Người Máy",
+    "author": "Nguyễn Trọng Huân",
+    "borrowed": false
+  },
+  {
+    "code": "S0261",
+    "title": "Xóm Ga-ra",
+    "author": "Vũ Hưng - Lê Hoài",
+    "borrowed": false
+  },
+  {
+    "code": "S0262",
+    "title": "Cuối mùa lá rụng",
+    "author": "Mai Linh Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0263",
+    "title": "Quê ngoại hai",
+    "author": "Nguyễn Thị Anh Thư",
+    "borrowed": false
+  },
+  {
+    "code": "S0264",
+    "title": "Dọc ngang vịnh biển",
+    "author": "Phạm Ngọc Chiểu",
+    "borrowed": false
+  },
+  {
+    "code": "S0265",
+    "title": "Ông Cơ Còi làm báo Phá ngục ở Côn Đảo",
+    "author": "Nguyễn Ngọc Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0266",
+    "title": "Trăng của riêng làng",
+    "author": "Nguyễn Tiến Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0267",
+    "title": "Bước ngoặt cuộc đời",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0268",
+    "title": "Đợi sương mù giữa phố",
+    "author": "Lữ Hồng",
+    "borrowed": false
+  },
+  {
+    "code": "S0269",
+    "title": "Lại nói với em về bàn chân chiến sĩ",
+    "author": "Văn Sỹ Tương",
+    "borrowed": false
+  },
+  {
+    "code": "S0270",
+    "title": "Rừng xanh tuổi trẻ",
+    "author": "Lê Thị Mây",
+    "borrowed": false
+  },
+  {
+    "code": "S0271",
+    "title": "Qùa tặng mùa xuân",
+    "author": "Nguyễn Duy Liễm",
+    "borrowed": false
+  },
+  {
+    "code": "S0272",
+    "title": "Cuối trời lửa đạn",
+    "author": "Phùng Phương Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0273",
+    "title": "Chín cơn mưa và mẹ",
+    "author": "Nguyễn Hữu Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0274",
+    "title": "Một kỷ niệm",
+    "author": "Phạm Phương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0275",
+    "title": "Hương Quỳnh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0276",
+    "title": "Chín bậc nhớ thương",
+    "author": "Hoàng Anh Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0277",
+    "title": "Bình Minh Ngày Mới",
+    "author": "Nguyễn Ngọc Thoa",
+    "borrowed": false
+  },
+  {
+    "code": "S0278",
+    "title": "Khoảng Trời Riêng",
+    "author": "Nhiều Tác Giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0279",
+    "title": "Những Người Đàn Ông",
+    "author": "Trần Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0280",
+    "title": "Đức Thánh Đuổm Dương Tự Minh",
+    "author": "Phạm Đức Thái Nguyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0281",
+    "title": "Dòng sông màu mận chín",
+    "author": "Triệu Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0282",
+    "title": "Một cuộc đổi thay",
+    "author": "Phạm Ngọc Hưng",
+    "borrowed": false
+  },
+  {
+    "code": "S0283",
+    "title": "Trăng khuyết",
+    "author": "Vân Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0284",
+    "title": "Đi Tìm Một Cơn Mơ",
+    "author": "Nguyễn Chu Nhạc",
+    "borrowed": false
+  },
+  {
+    "code": "S0285",
+    "title": "Bóng Ma COVID",
+    "author": "Phạm Dức Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0286",
+    "title": "Nẻo đường sau mặt trận",
+    "author": "Dương Văn Sáu",
+    "borrowed": false
+  },
+  {
+    "code": "S0287",
+    "title": "Bến đậu",
+    "author": "Hoàng Tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0288",
+    "title": "Cưỡi ngựa xem hoa",
+    "author": "Ngô Vĩnh Bình",
+    "borrowed": false
+  },
+  {
+    "code": "S0289",
+    "title": "Áo lính",
+    "author": "Mai Tiến Nghị",
+    "borrowed": false
+  },
+  {
+    "code": "S0290",
+    "title": "Nơi người lính trở về `",
+    "author": "Nguyễn Trung Hậu",
+    "borrowed": false
+  },
+  {
+    "code": "S0291",
+    "title": "Khoảng lặng giữa hai tiếng bom",
+    "author": "Yên Mã Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0292",
+    "title": "Vời vợi miền tây",
+    "author": "Phạm Minh Hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0293",
+    "title": "Chinh phụ làng chuông",
+    "author": "Bùi Thanh Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0294",
+    "title": "Tầm mắt",
+    "author": "Hoàng Luận",
+    "borrowed": false
+  },
+  {
+    "code": "S0295",
+    "title": "Núi rừng im lặng",
+    "author": "Đỗ Trọng Phụng",
+    "borrowed": false
+  },
+  {
+    "code": "S0296",
+    "title": "Tìm cha",
+    "author": "Hoàng Thị Hoa",
+    "borrowed": false
+  },
+  {
+    "code": "S0297",
+    "title": "Hai chị em",
+    "author": "Nguyễn Hương Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0298",
+    "title": "Mưa ngẫu",
+    "author": "Nguyễn Thu Hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0299",
+    "title": "Những lá cờ và đôi mắt Trường Sa",
+    "author": "Nguyễn Hữu Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0300",
+    "title": "Qua miền Tây Bắc",
+    "author": "Nguyễn Công Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0301",
+    "title": "Hoa mai đỏ",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0302",
+    "title": "Không thông điệp",
+    "author": "Khiếu Quang Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0303",
+    "title": "Ngôi nhà không có cầu thang",
+    "author": "Phan Trung Hiếu",
+    "borrowed": false
+  },
+  {
+    "code": "S0304",
+    "title": "Lẽ sống",
+    "author": "Chi Phan",
+    "borrowed": false
+  },
+  {
+    "code": "S0305",
+    "title": "Mùng ba",
+    "author": "Vĩnh Trà",
+    "borrowed": false
+  },
+  {
+    "code": "S0306",
+    "title": "Chớp biển",
+    "author": "Nguyễn Xuân Bối",
+    "borrowed": false
+  },
+  {
+    "code": "S0307",
+    "title": "Trăng đôi",
+    "author": "Hoàng Luận",
+    "borrowed": false
+  },
+  {
+    "code": "S0308",
+    "title": "Mặt trời ở lại",
+    "author": "Võ Thị Xuân Hà",
+    "borrowed": false
+  },
+  {
+    "code": "S0309",
+    "title": "Một thời để nhớ",
+    "author": "Trịnh Duy Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0310",
+    "title": "Bí mật hai người đàn bà",
+    "author": "Đặng Toán",
+    "borrowed": false
+  },
+  {
+    "code": "S0311",
+    "title": "Tình yêu và nỗi nhớ",
+    "author": "Hồng Huyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0312",
+    "title": "Tiếng còi tàu thuở ấy",
+    "author": "Nguyễn Tiến Hải - Ngô Hoa Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0313",
+    "title": "Bên trời thương nhớ",
+    "author": "Chu Văn Mười",
+    "borrowed": false
+  },
+  {
+    "code": "S0314",
+    "title": "Chuyện đời lắng sâu",
+    "author": "Chi Phan",
+    "borrowed": false
+  },
+  {
+    "code": "S0315",
+    "title": "Miền kí ức",
+    "author": "Nguyễn Thanh Hoàng",
+    "borrowed": false
+  },
+  {
+    "code": "S0316",
+    "title": "Sam 2 vít cổ b52 như thế đáy",
+    "author": "Nguyễn Quang Hùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0317",
+    "title": "Trái tim của rừng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0318",
+    "title": "Yêu không lấy",
+    "author": "Vĩnh Trà",
+    "borrowed": false
+  },
+  {
+    "code": "S0319",
+    "title": "Bình minh đêm và giấc mơ màu nắng",
+    "author": "Trần Thị Nhung",
+    "borrowed": false
+  },
+  {
+    "code": "S0320",
+    "title": "Trên đồi trăng",
+    "author": "Trần Thị Thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0321",
+    "title": "Yên ngựa sau cuộc chiến",
+    "author": "Hoàng Đình Bường",
+    "borrowed": false
+  },
+  {
+    "code": "S0322",
+    "title": "Trăng trên khuau luông",
+    "author": "Lục Mạnh Cường",
+    "borrowed": false
+  },
+  {
+    "code": "S0323",
+    "title": "Chất lính",
+    "author": "Ngọc Trương",
+    "borrowed": false
+  },
+  {
+    "code": "S0324",
+    "title": "Vòng xoáy tận cùng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0325",
+    "title": "Trở về với núi",
+    "author": "Kiều Duy Khánh",
+    "borrowed": false
+  },
+  {
+    "code": "S0326",
+    "title": "Bên dòng sông hậu",
+    "author": "Nguyễn Thị Ngọc Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0327",
+    "title": "Tiếng rừng",
+    "author": "Phùng Văn Khai",
+    "borrowed": false
+  },
+  {
+    "code": "S0328",
+    "title": "Bốn mùa tình yêu",
+    "author": "Ngô Anh Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0329",
+    "title": "Khắc khoải tiếng mỏ trên sông",
+    "author": "Vương Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0330",
+    "title": "Những người con sống mãi với non sông",
+    "author": "Thái Chí Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0331",
+    "title": "Đội du kích thiếu niên đình bảng",
+    "author": "Xuân Sách",
+    "borrowed": false
+  },
+  {
+    "code": "S0332",
+    "title": "Chuyện nhỏ đàn bà",
+    "author": "DI Li",
+    "borrowed": false
+  },
+  {
+    "code": "S0333",
+    "title": "Em vẫn như ngày xưa",
+    "author": "Vương Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0334",
+    "title": "Một tiếng chim rừng",
+    "author": "Trần Thúc Hà",
+    "borrowed": false
+  },
+  {
+    "code": "S0335",
+    "title": "Kể chuyện vị tướng thiên tài nguyễn huệ",
+    "author": "Gia Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0336",
+    "title": "Hạt vía thiêng",
+    "author": "Kiều Duy Khánh",
+    "borrowed": false
+  },
+  {
+    "code": "S0337",
+    "title": "Đường đi xa mà gần",
+    "author": "Nguyên Kỳ Văn",
+    "borrowed": false
+  },
+  {
+    "code": "S0338",
+    "title": "Ký ức xanh",
+    "author": "Nguyễn Duy Hưng",
+    "borrowed": false
+  },
+  {
+    "code": "S0339",
+    "title": "Đi qua và trở lại",
+    "author": "Nguyễn Hữu Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0340",
+    "title": "Trên núi Tưk-cot",
+    "author": "Hồ Kiên Giang",
+    "borrowed": false
+  },
+  {
+    "code": "S0341",
+    "title": "Không chỉ là ký ức",
+    "author": "Nguyễn Quang Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0342",
+    "title": "Tiếng động đêm rừng vầu",
+    "author": "Nguyễn Công Hảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0343",
+    "title": "Vòng vía",
+    "author": "Bùi Thị Như Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0344",
+    "title": "Một phút và nửa đời người",
+    "author": "Triệu Bôn",
+    "borrowed": false
+  },
+  {
+    "code": "S0345",
+    "title": "Bốn bề gió thổi",
+    "author": "Khiếu Quang Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0346",
+    "title": "Hoàng hôn phía chân trời",
+    "author": "Bùi Thu Hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0347",
+    "title": "Những chân dung muôn màu",
+    "author": "Thanh Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0348",
+    "title": "Gieo mây",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0349",
+    "title": "Tình yêu đầu ngọn gió",
+    "author": "Hà Minh Đức",
+    "borrowed": false
+  },
+  {
+    "code": "S0350",
+    "title": "Giá trị của tính cách",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0351",
+    "title": "Trên đảo quê hương",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0352",
+    "title": "Vùng phủ sóng",
+    "author": "Đinh Văn Y",
+    "borrowed": false
+  },
+  {
+    "code": "S0353",
+    "title": "Sắc màu thương nhớ",
+    "author": "Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0354",
+    "title": "Thì Thằm Xuân Mưa",
+    "author": "Thanh Xuân",
+    "borrowed": false
+  },
+  {
+    "code": "S0355",
+    "title": "Vùng Yêu Thương",
+    "author": "Nguyễn Thị Ngọc Yến",
+    "borrowed": false
+  },
+  {
+    "code": "S0356",
+    "title": "Núi Thiên Hoa Vẫn Tím",
+    "author": "Phan Thái - Minh hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0357",
+    "title": "Thủ Trưởng Của Chúng Tôi",
+    "author": "Triệu Hồng",
+    "borrowed": false
+  },
+  {
+    "code": "S0358",
+    "title": "Phác Thảo",
+    "author": "Lê Văn Long",
+    "borrowed": false
+  },
+  {
+    "code": "S0359",
+    "title": "Ai có Qua Cầu Mới Hay",
+    "author": "Nguyễn Huy Bang",
+    "borrowed": false
+  },
+  {
+    "code": "S0360",
+    "title": "Người Bên Bóng Núi",
+    "author": "Trần Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0361",
+    "title": "Hội Thề",
+    "author": "Nguyễn Quang Thân",
+    "borrowed": false
+  },
+  {
+    "code": "S0362",
+    "title": "Phương Tiện Bay Không Người Láy và Vai Trò Của Công Tác Điện Tử",
+    "author": "Nguyễn Huy Hoàng",
+    "borrowed": false
+  },
+  {
+    "code": "S0363",
+    "title": "Nàng Dâu Xứ Nghệ",
+    "author": "Đậu Hải Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0364",
+    "title": "Bạch Đằng Tráng Khúc",
+    "author": "Phạm Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0365",
+    "title": "Ngọn Đèn Trong Bảo Lửa",
+    "author": "Phạm Xuân Trường",
+    "borrowed": false
+  },
+  {
+    "code": "S0366",
+    "title": "Rừng Việt Bắc",
+    "author": "Lê Toán",
+    "borrowed": false
+  },
+  {
+    "code": "S0367",
+    "title": "Lịch Sử Quân Khu 4 (1945 - 2015)",
+    "author": "BQP BTL Quân Khu 4",
+    "borrowed": false
+  },
+  {
+    "code": "S0368",
+    "title": "Hừng Đông",
+    "author": "Nguyễn Thế Kỷ",
+    "borrowed": false
+  },
+  {
+    "code": "S0369",
+    "title": "Lời Bác Hồ Dạy Ngày Này Năm Xưa",
+    "author": "TCCTQDNDVN Cục Tuyên Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0370",
+    "title": "QDND VN Trung Với Đảng Hiếu Với Dân",
+    "author": "Đại Tướng Ngô Xuân Dịch",
+    "borrowed": false
+  },
+  {
+    "code": "S0371",
+    "title": "Cách Mạng Tháng 8 1945",
+    "author": "Viện Chiến Lược Và Lịch sử Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0372",
+    "title": "Con Đường Theo Bác",
+    "author": "Hoàng Quốc Việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0373",
+    "title": "Văn Nghệ Quân Đội",
+    "author": "Tạp chí văn nghệ của LLVTND",
+    "borrowed": false
+  },
+  {
+    "code": "S0374",
+    "title": "Nữ lưu nước việt",
+    "author": "Tâm hồn việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0375",
+    "title": "Thiết tha những mùa hoa",
+    "author": "Nhất Mạt Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0376",
+    "title": "Cẩm nang chọn nghề",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0377",
+    "title": "Nơi biên cương tổ quốc",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0378",
+    "title": "Giáo dục an toàn giao thông cho sinh viên, học sinh, các trường đại học,cao đưangr,trung học chuyên nghiệp",
+    "author": "Bộ giáo dục và đào tạo",
+    "borrowed": false
+  },
+  {
+    "code": "S0379",
+    "title": "Qui định mời về tổ chức và hoạt dộng của chính quyền cấp cơ sở( xã,phường,Thị trán)",
+    "author": "Nguyễn Duy Hùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0380",
+    "title": "Quyết tâm ngăn chặn và đẩy lùi tham nhũng",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0381",
+    "title": "Ngày bình thường trở lại",
+    "author": "Hoàng Thanh Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0382",
+    "title": "Hoàn lưu của bão",
+    "author": "Trịnh Hồng Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0383",
+    "title": "Nối những vệt không gian",
+    "author": "Nguyễn Quang Hưng",
+    "borrowed": false
+  },
+  {
+    "code": "S0384",
+    "title": "Đồng đội",
+    "author": "Văn Thành",
+    "borrowed": false
+  },
+  {
+    "code": "S0385",
+    "title": "Những giọt nước mắt",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0386",
+    "title": "Chuyện ở làng",
+    "author": "Trần Đình Nhân",
+    "borrowed": false
+  },
+  {
+    "code": "S0387",
+    "title": "Miền nhớ",
+    "author": "Võ Thu Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0388",
+    "title": "Chim sẻ ri trên dồng nước tập 2",
+    "author": "Nguyễn Trọng Văn",
+    "borrowed": false
+  },
+  {
+    "code": "S0389",
+    "title": "Đaor đá kỳ lạ",
+    "author": "Nguyễn Minh Châu",
+    "borrowed": false
+  },
+  {
+    "code": "S0390",
+    "title": "Đoàn tàu xanh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0391",
+    "title": "Cuộc chiến không tiếng súng",
+    "author": "Thái Chí Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0392",
+    "title": "Đàn ông ở làng",
+    "author": "Trần Hồng Giang",
+    "borrowed": false
+  },
+  {
+    "code": "S0393",
+    "title": "Nhạc cây",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0394",
+    "title": "Blouse trắng",
+    "author": "Trần Thúy Lành",
+    "borrowed": false
+  },
+  {
+    "code": "S0395",
+    "title": "Mưa giông",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0396",
+    "title": "Kỷ niệm cứu quốc quân",
+    "author": "Chu Văn Tấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0397",
+    "title": "Đại thắng mùa xuân",
+    "author": "Văn Tiến Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0398",
+    "title": "Đội Việt Nam tuyên truyền giải phóng quân",
+    "author": "Bộ Tổng Tham mưu",
+    "borrowed": false
+  },
+  {
+    "code": "S0399",
+    "title": "Lịch sử các đội quân tiền thân Quân đội Nhân dân Việt Nam",
+    "author": "Bộ Tổng Tham mưu",
+    "borrowed": false
+  },
+  {
+    "code": "S0400",
+    "title": "Tiếng chim rừng và đát lửa Tây Ninh",
+    "author": "Châu La Việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0401",
+    "title": "Những chiến khu với Tổng khởi ngĩa tháng 8 năm 1945",
+    "author": "Dương Đình Lập",
+    "borrowed": false
+  },
+  {
+    "code": "S0402",
+    "title": "Hồ Chí Minh Người dẫn dắt dân tộc Việt Nam từ đêm trường nô lệ đến mùa thu độc lập 1945",
+    "author": "Vũ Như Khôi",
+    "borrowed": false
+  },
+  {
+    "code": "S0403",
+    "title": "Giáo trình Lý luận chung về Nhà nước và Pháp luật",
+    "author": "Nguyễn Văn Động",
+    "borrowed": false
+  },
+  {
+    "code": "S0404",
+    "title": "Như tôi đã sống",
+    "author": "Nguyễn Đăng Giáp",
+    "borrowed": false
+  },
+  {
+    "code": "S0405",
+    "title": "Không gian Tình Thầy",
+    "author": "Học viện Kỹ thuật Quân Sự",
+    "borrowed": false
+  },
+  {
+    "code": "S0406",
+    "title": "Hôồ Chí Minh với văn nghệ sĩ văn nghệ sĩ với Hồ Chí Minh Tập 6",
+    "author": "Phạm Trung Đỉnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0407",
+    "title": "Chàng Ximbat Việt Kiều Xứ Ba Tây",
+    "author": "Nguyễn Đắc Như",
+    "borrowed": false
+  },
+  {
+    "code": "S0408",
+    "title": "Quan Điểm Thành Tựu và Định Hướng Xây Dựng QDNDVN Cách Mạng, Chính Quy, Tinh Nhuệ Từng Bước Hiện Đại",
+    "author": "Đại Tướng Phùng Quang Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0409",
+    "title": "Mái Trường Trong Ký Ức",
+    "author": "HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0410",
+    "title": "Toàn Đảng, toàn dân, toàn quân chung sức đồng lòng xây dựng đất nước ta ngày càng phồn vinh, hạnh phúc",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0411",
+    "title": "nan",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0412",
+    "title": "Lá thư gửi lên thiên đường",
+    "author": "FAMILY BOOKS",
+    "borrowed": false
+  },
+  {
+    "code": "S0413",
+    "title": "Giọng của cây đàn",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0414",
+    "title": "Mắt của biển",
+    "author": "Vương Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0415",
+    "title": "Sống mãi trên quê hương anh hùng",
+    "author": "BÌnh Nguyên Trang/Nguyễn Bá thuyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0416",
+    "title": "Quán cửa hàng nhỏ thu lợi lớn",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0417",
+    "title": "Bà chúa kho và giai thoại về những nữ nhân kiệt liệt",
+    "author": "Lê Thái Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0418",
+    "title": "Những tác phẩm báo chí tiêu biểu đoạt giải báo chí quốc gia (2007-2025) tập 1",
+    "author": "TCCT/Báo QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0419",
+    "title": "50 năm chiến dịch phòng ngự cánh đồng chum-xiêng khoảng thắng lợi và bài học kinh nghiệm",
+    "author": "BQP-Tỉnh ủy Nghệ An",
+    "borrowed": false
+  },
+  {
+    "code": "S0420",
+    "title": "Màu cờ đổ thắm giữa biển xanh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0421",
+    "title": "Khởi nghĩa giành chính quyền ở Hà Nội năm 1945 giá trị lịch sử và hiện thực",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0422",
+    "title": "Bác Hồ và đội du kích Pác Bó",
+    "author": "Thiếu tướng Lê Quảng Ba",
+    "borrowed": false
+  },
+  {
+    "code": "S0423",
+    "title": "Bảo vệ Bác Hồ trên \" Thủ Đô giá ngàn\"",
+    "author": "Đồng Khắc Thọ",
+    "borrowed": false
+  },
+  {
+    "code": "S0424",
+    "title": "Cách mạng Tháng Tám",
+    "author": "Trường Chinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0425",
+    "title": "Vũ trang quần chúng cách mạng xây dựng Quân đội nhân dân",
+    "author": "Võ Nguyên Giáp",
+    "borrowed": false
+  },
+  {
+    "code": "S0426",
+    "title": "Bác Hồ với Thanh niên",
+    "author": "Nguyễn Văn Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0427",
+    "title": "Di sản thế giới ở Việt Nam",
+    "author": "Trần Mạnh Thường",
+    "borrowed": false
+  },
+  {
+    "code": "S0428",
+    "title": "Tư tưởng quân sự Phan Bội Châu",
+    "author": "Trần Anh Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0429",
+    "title": "Huyền thoại anh hùng tình báo Đào Phúc Lộc tập 3 Tầm nhìn chiến lược",
+    "author": "Nhiều tác giai",
+    "borrowed": false
+  },
+  {
+    "code": "S0430",
+    "title": "Viét tiếp chuyện Nguyên Phong",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0431",
+    "title": "Đoàn mật vụ của Ngô Đình Cẩn",
+    "author": "Văn Phan",
+    "borrowed": false
+  },
+  {
+    "code": "S0432",
+    "title": "Dấu ấn cuộc đời",
+    "author": "Lưu Phước Lượng",
+    "borrowed": false
+  },
+  {
+    "code": "S0433",
+    "title": "Kí ức chiến trường",
+    "author": "Minh Chuyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0434",
+    "title": "Kí ức sư đoàn",
+    "author": "Ban liên lạc hội cựu chiến binh sư 3 sao vàng thủ đô Hà Nội",
+    "borrowed": false
+  },
+  {
+    "code": "S0435",
+    "title": "Câu chuyện về người lính xe tăng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0436",
+    "title": "Thẩm sâu miền kí ức",
+    "author": "Nguyễn Mạnh Đậu",
+    "borrowed": false
+  },
+  {
+    "code": "S0437",
+    "title": "Nữ biệt động cảm tử",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0438",
+    "title": "Hơn cả tượng đài tập 3",
+    "author": "Mạc Thanh Chi",
+    "borrowed": false
+  },
+  {
+    "code": "S0439",
+    "title": "Hơn cả tượng đài tập 4",
+    "author": "Mạc Thanh Chi",
+    "borrowed": false
+  },
+  {
+    "code": "S0440",
+    "title": "Chân dung các nghệ sĩ quân đội tập 5",
+    "author": "Thái Chí Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0441",
+    "title": "Màu xanh thắp sáng vùng biên",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0442",
+    "title": "Lính Tăng lính Pháo",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0443",
+    "title": "Huyền thoại anh hùng tình báo Đào Phúc Lộc tập1",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0444",
+    "title": "Biên cương nơi anh ngã xuống",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0445",
+    "title": "Trường Sa ngày trở về",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0446",
+    "title": "Tiệc hoa",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0447",
+    "title": "Khúc ca Trường Sơn",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0448",
+    "title": "Những con người sống mãi với non sông",
+    "author": "Thái Chí Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0449",
+    "title": "Mặn hơn nước mắt",
+    "author": "Song Tử Đông",
+    "borrowed": false
+  },
+  {
+    "code": "S0450",
+    "title": "Kiều bào với Trường Sa",
+    "author": "Hiệu Constant",
+    "borrowed": false
+  },
+  {
+    "code": "S0451",
+    "title": "Người xứ Thanh",
+    "author": "Lê Tuấn Lộc",
+    "borrowed": false
+  },
+  {
+    "code": "S0452",
+    "title": "Nữ chúa Việt Nam trong lịch sử tập 1",
+    "author": "Đỗ Đức Hùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0453",
+    "title": "Những bản nhãn trong lịch sử Việt Nam",
+    "author": "Lê Thái Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0454",
+    "title": "Những câu chuyện về Bác Hồ với giới tri thức khoa học",
+    "author": "Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0455",
+    "title": "Chiến cục Đông Xuân 1953-1954",
+    "author": "Đại tá, Ts Dương Đình Lập",
+    "borrowed": false
+  },
+  {
+    "code": "S0456",
+    "title": "Truyện ngắn Việt Nam sau 1975 viết về chiến tranh",
+    "author": "Nguyễn Thị Phương Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0457",
+    "title": "Một số trận đánh trong kháng chiến chống Mỹ cứu nước 1954 1975",
+    "author": "Đại tá , TS Nguyễn Văn Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0458",
+    "title": "Dân quân du kích Lào trong chống chiến tranh đặc biệt của đế quốc Mỹ 1964-1968",
+    "author": "Chu Văn Lộc Lê ,Thanh Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0459",
+    "title": "Kỉ vật kháng chiến tập 9",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0460",
+    "title": "Các vị thần xứ Đồng",
+    "author": "Lê Thái Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0461",
+    "title": "Vai trò của thuỷ quân nhà Trần trong kháng chiến chống Nguyên Mông",
+    "author": "Lê Thái Dũng , Nguyễn Thế Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0462",
+    "title": "300 ngày đấu tranh thi hành hiệp định Giơ ne Vơ 22/7/1954- 17/5/1955",
+    "author": "Bộ quốc phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0463",
+    "title": "Những tấm gương bình dị mà cao quý tập 14",
+    "author": "Báo QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0464",
+    "title": "Sáng mãi phẩm chất bộ đội cụ Hồ tập 12",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0465",
+    "title": "Một số kinh nghiệm trong đấu tranh chính trị tinh thần chống khủng bố trên thế giới",
+    "author": "Bùi Quang Tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0466",
+    "title": "Tiểu thuyết con của đảo",
+    "author": "Trương Thị Thương Huyền",
+    "borrowed": false
+  },
+  {
+    "code": "S0467",
+    "title": "Tư tưởng Hồ Chí Minh về phòng chống dịch bệnh",
+    "author": "Hà An",
+    "borrowed": false
+  },
+  {
+    "code": "S0468",
+    "title": "Đinh Tiên Hoàng và công cuộc thống nhất đất nước",
+    "author": "Gia Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0469",
+    "title": "Trần Hưng Đạo và cuộc kháng chiến thần thánh chống quân Nguyên",
+    "author": "Gia Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0470",
+    "title": "Chiến trường B2 qua những ghi chép thời hậu chiến",
+    "author": "Lê Chính",
+    "borrowed": false
+  },
+  {
+    "code": "S0471",
+    "title": "Hình thức biểu hiện tín ngưỡng làng Việt",
+    "author": "Gia Bách",
+    "borrowed": false
+  },
+  {
+    "code": "S0472",
+    "title": "Việt Nam kho tàng giả sử",
+    "author": "Gia Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0473",
+    "title": "Những chiến sĩ ComLe ra trận",
+    "author": "Minh Tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0474",
+    "title": "Mặt trận Đường 9 -Khe Sanh",
+    "author": "Trần Hữu Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0475",
+    "title": "Đường Hồ Chí Minh dưới lồng đất",
+    "author": "Nguyễn Phước Thiên Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0476",
+    "title": "Danh trấn biên cương",
+    "author": "Ánh Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0477",
+    "title": "Truyện về bảo đảm Hậu cần Kĩ Thuật trong kháng chiến chống Mỹ cứu nước tập 1",
+    "author": "Dương Hồng Anh-Ngô Nhật Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0478",
+    "title": "Việt sử những câu truyện thú vị",
+    "author": "Lê Thái Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0479",
+    "title": "Những câu truyện về Bác Hồ với công nhân",
+    "author": "Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0480",
+    "title": "Những tấm gương sáng trong sự việc",
+    "author": "Lê Thái Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S0481",
+    "title": "Tiếng dương cầm đại tướng",
+    "author": "Nguyễn Minh Khiêm",
+    "borrowed": false
+  },
+  {
+    "code": "S0482",
+    "title": "Đồng Đội",
+    "author": "Hoàng Dân",
+    "borrowed": false
+  },
+  {
+    "code": "S0483",
+    "title": "Lịch sử phong trào cộng sảng và công nhân quốc tế",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0484",
+    "title": "Lịch sử Đảng cộng sản Việt Nam tập 1",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0485",
+    "title": "Người cách mạng phải dĩ công vi thượng",
+    "author": "Trường Giang",
+    "borrowed": false
+  },
+  {
+    "code": "S0486",
+    "title": "Hỏi đáp về những mốc son lịch sử của ĐCS Việt Nam",
+    "author": "TS Dương Văn Lượn",
+    "borrowed": false
+  },
+  {
+    "code": "S0487",
+    "title": "Hồ Chí Minh tình cảm lớn của người dành cho văn hoá đọc và ngành thư viện",
+    "author": "Ánh Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0488",
+    "title": "Sức mạnh vô hình bên trong bạn",
+    "author": "Geneveive Behrend",
+    "borrowed": false
+  },
+  {
+    "code": "S0489",
+    "title": "Những câu chuyện về Bác Hồ cới đồng bào dân tộc",
+    "author": "Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0490",
+    "title": "Những câu chuyện về Bác Hồ với ngày Tết",
+    "author": "Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0491",
+    "title": "50 di chúc của chủ tịch HCM",
+    "author": "Lam Hạnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0492",
+    "title": "Theo dấu chân Người",
+    "author": "Quốc Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0493",
+    "title": "Sư đoàn trong tôi",
+    "author": "Đậu Thanh Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0494",
+    "title": "Quả đấm thép trên mặt trận Tây Nam",
+    "author": "Huy Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0495",
+    "title": "Phận người trôn nổi",
+    "author": "Vũ Từ Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0496",
+    "title": "Sài Gòn ơi vùng lên",
+    "author": "Trần Quang Long",
+    "borrowed": false
+  },
+  {
+    "code": "S0497",
+    "title": "Con trai pháo thủ số 5",
+    "author": "Dương Duy Ngữ",
+    "borrowed": false
+  },
+  {
+    "code": "S0498",
+    "title": "Những mùa xuân đã qua",
+    "author": "Trinh Nguyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0499",
+    "title": "Về nghe sóng biển",
+    "author": "Võ Thu Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0500",
+    "title": "Những người mẹ anh hùng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0501",
+    "title": "Hậu cần quân sự",
+    "author": "Dương Hồng Anh- Ngô Nhật Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0502",
+    "title": "Người chiến sĩ áo trắng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0503",
+    "title": "Ngăn ngừa bệnh giáo điều",
+    "author": "TS Nguyễn Đình Tương",
+    "borrowed": false
+  },
+  {
+    "code": "S0504",
+    "title": "Quyền được sống",
+    "author": "Bích Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0505",
+    "title": "Chuyện kể về Bác Hồ với nhà giáo",
+    "author": "Phan Tuyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0506",
+    "title": "Thanh niên phải gương mẫu trong đoàn kết và kỉ luật",
+    "author": "Phan Tuyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0507",
+    "title": "Hướng dẫn chọn giống và chăm sóc hoa thuỷ cảnh",
+    "author": "Trí Thức Việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0508",
+    "title": "Đấu tranh phòng chống phi chính trị hoá quân đội trong tình hình mới",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0509",
+    "title": "Chuyện tình của người lính",
+    "author": "Kim Hường",
+    "borrowed": false
+  },
+  {
+    "code": "S0510",
+    "title": "Những người lính thời bình",
+    "author": "Phan Vĩnh Điển",
+    "borrowed": false
+  },
+  {
+    "code": "S0511",
+    "title": "Hồi ức đoàn bay mig21",
+    "author": "Nguyễn Công Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0512",
+    "title": "Năm người cùng làm",
+    "author": "Trọng Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0513",
+    "title": "Nhựa sống",
+    "author": "Bùi Việt Phương",
+    "borrowed": false
+  },
+  {
+    "code": "S0514",
+    "title": "Điểm cao Tầm Lệ",
+    "author": "Tăng Văn Tĩnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0515",
+    "title": "Hiểm hoạ từ mặt trái của Internet",
+    "author": "Tuyên Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0516",
+    "title": "Phương pháp và phong cách Hồ Chí Minh",
+    "author": "GS Đặng Xuân Kì",
+    "borrowed": false
+  },
+  {
+    "code": "S0517",
+    "title": "Hồ Chí Minh với sự nghiệp đại đoàn kết",
+    "author": "Hải Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0518",
+    "title": "Ngày Bác trở về",
+    "author": "Phan Tuyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0519",
+    "title": "Người chính uỷ",
+    "author": "Đại tướng Chu Huy Mân",
+    "borrowed": false
+  },
+  {
+    "code": "S0520",
+    "title": "Thơ đồng đội",
+    "author": "Trần Đông Phú",
+    "borrowed": false
+  },
+  {
+    "code": "S0521",
+    "title": "Nỗi đau sau chiến tranh",
+    "author": "Vũ Thị Kim Liên",
+    "borrowed": false
+  },
+  {
+    "code": "S0522",
+    "title": "Những anh huùng trẻ tuổi",
+    "author": "Nam Phong",
+    "borrowed": false
+  },
+  {
+    "code": "S0523",
+    "title": "Những tấm gương sáng",
+    "author": "Nguyễn Quốc Toản",
+    "borrowed": false
+  },
+  {
+    "code": "S0524",
+    "title": "Phác hoạ mấy chân dung văn học",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0525",
+    "title": "Viết tiếp bản hùng ca Tây Bắc",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0526",
+    "title": "Mối tình nàng Ba đào",
+    "author": "Đặng Bình Liêm",
+    "borrowed": false
+  },
+  {
+    "code": "S0527",
+    "title": "Anh lính da đen",
+    "author": "Phùng Văn Khai",
+    "borrowed": false
+  },
+  {
+    "code": "S0528",
+    "title": "Đợi ở của lục",
+    "author": "Vũ Thảo Ngọc",
+    "borrowed": false
+  },
+  {
+    "code": "S0529",
+    "title": "Chăm lo học hành trên kiền núi mờ sương",
+    "author": "Cao Văn Tư",
+    "borrowed": false
+  },
+  {
+    "code": "S0530",
+    "title": "Kỉ niệm trường sa",
+    "author": "Trần Nguyễn Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0531",
+    "title": "Lời Bác sáng mãi những chiến công",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0532",
+    "title": "Những kho báo của nhân loại di sản thế giới tập 5",
+    "author": "Vương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0533",
+    "title": "Vitamin cho tâm hồn",
+    "author": "Phạm Lập",
+    "borrowed": false
+  },
+  {
+    "code": "S0534",
+    "title": "Nguyễn An Ninh dấu ấn để lại",
+    "author": "Lê Anh quốc",
+    "borrowed": false
+  },
+  {
+    "code": "S0535",
+    "title": "Rừng lân tinh",
+    "author": "Trịnh Thanh Phong",
+    "borrowed": false
+  },
+  {
+    "code": "S0536",
+    "title": "Một sốn nguyên tắc nghiên cứu khoa học cơ bản",
+    "author": "TS Hà Thuý Mai",
+    "borrowed": false
+  },
+  {
+    "code": "S0537",
+    "title": "Đô thị ảo",
+    "author": "Vũ Thị Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0538",
+    "title": "Lê Hà Ngân",
+    "author": "Lê Hà Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0539",
+    "title": "Văn Hoá dân gian biển đảo Việt Nam",
+    "author": "Nguyễn Chí Bền",
+    "borrowed": false
+  },
+  {
+    "code": "S0540",
+    "title": "Thời chiến trận",
+    "author": "Trung tướng Huỳnh Tiền Phong",
+    "borrowed": false
+  },
+  {
+    "code": "S0541",
+    "title": "Thử lửa",
+    "author": "Thiếu tướng Nghiêm Sĩ Chúng",
+    "borrowed": false
+  },
+  {
+    "code": "S0542",
+    "title": "Cơm Bắc giặc Nam",
+    "author": "Phùng Phương Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0543",
+    "title": "Bóng xưa bảng lảng",
+    "author": "Hoàng Giá",
+    "borrowed": false
+  },
+  {
+    "code": "S0544",
+    "title": "Răng thề",
+    "author": "Tô Hoài",
+    "borrowed": false
+  },
+  {
+    "code": "S0545",
+    "title": "Người thầy đầu tiên",
+    "author": "Aitmatov",
+    "borrowed": false
+  },
+  {
+    "code": "S0546",
+    "title": "Sáng mãi ngọn lửa Hải Văn",
+    "author": "Lê Văn Thơm",
+    "borrowed": false
+  },
+  {
+    "code": "S0547",
+    "title": "Những câu chuyện về chính trị và quân sự",
+    "author": "Minh Khôi",
+    "borrowed": false
+  },
+  {
+    "code": "S0548",
+    "title": "Một số trận đánh trong kháng chiến chống mỹ",
+    "author": "Đại tá Ths Nguyễn Mạnh Hưng",
+    "borrowed": false
+  },
+  {
+    "code": "S0549",
+    "title": "Thiếu tướng xe tăng Đào Huy Vũ",
+    "author": "Nghiêm Khắc Nguyệt",
+    "borrowed": false
+  },
+  {
+    "code": "S0550",
+    "title": "Một số trận đánh trong kháng chiến chống Pháp",
+    "author": "Đại tá TS Đỗ Quang Vinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0551",
+    "title": "Một số trận đánh tiêu biểu của dân quân tự vệ trong chiến tranh giải phóng",
+    "author": "Trung tướng Phạm Quang Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0552",
+    "title": "Mây vẫn bay về trời",
+    "author": "Hà Đình Cẩn",
+    "borrowed": false
+  },
+  {
+    "code": "S0553",
+    "title": "Văn Hoá dân gian biển đảo vùng Bắc Bộ tập 2",
+    "author": "TS Võ Thị Hoàng Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0554",
+    "title": "Mẹ",
+    "author": "Trần Thế Tuyền",
+    "borrowed": false
+  },
+  {
+    "code": "S0555",
+    "title": "Một nửa còn ở lại",
+    "author": "Vương Thị Thu Thuỷ",
+    "borrowed": false
+  },
+  {
+    "code": "S0556",
+    "title": "Tiếng Vọng trên sông",
+    "author": "Lê Mậu Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0557",
+    "title": "Những khoảng khắc sinh tử",
+    "author": "Hoài Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0558",
+    "title": "Nguồn sáng phương nam",
+    "author": "Trần Văn Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0559",
+    "title": "Tiếng vọng kí ức",
+    "author": "Lê Xuân",
+    "borrowed": false
+  },
+  {
+    "code": "S0560",
+    "title": "Dặm dài tổ quốc",
+    "author": "Phạm Vân Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0561",
+    "title": "Trăng nơi lưng trời",
+    "author": "Ngân Kim",
+    "borrowed": false
+  },
+  {
+    "code": "S0562",
+    "title": "Nơi không có Hoa đào",
+    "author": "Vũ Thị Huyền Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0563",
+    "title": "Vùng đất thiêng",
+    "author": "Vương Thu Thuy",
+    "borrowed": false
+  },
+  {
+    "code": "S0564",
+    "title": "Tâm của phản biện",
+    "author": "Phan Tùng Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0565",
+    "title": "Những người phất cờ hồng",
+    "author": "Phạm Vân Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0566",
+    "title": "Một mình",
+    "author": "Nguyễn Thanh Hương",
+    "borrowed": false
+  },
+  {
+    "code": "S0567",
+    "title": "Cuộc đời và những trang nhật kí",
+    "author": "Trung tướng Thiều Trí Đinh",
+    "borrowed": false
+  },
+  {
+    "code": "S0568",
+    "title": "Bên dòng Thạch Hãn",
+    "author": "Mã Thiện Đồng",
+    "borrowed": false
+  },
+  {
+    "code": "S0569",
+    "title": "Hà Nội những năm tháng khôgn quên",
+    "author": "Phạm Kinh Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0570",
+    "title": "Truyển Thơ",
+    "author": "Hồng Diệu",
+    "borrowed": false
+  },
+  {
+    "code": "S0571",
+    "title": "Internet và sự thể hiện bản sắc",
+    "author": "Nguyễn Thị Phương Châm",
+    "borrowed": false
+  },
+  {
+    "code": "S0572",
+    "title": "Cánh cung đỏ",
+    "author": "Hà Lâm Kỳ",
+    "borrowed": false
+  },
+  {
+    "code": "S0573",
+    "title": "Ngụ ngôn tháng tư",
+    "author": "Trần Thị Tú Ngọc",
+    "borrowed": false
+  },
+  {
+    "code": "S0574",
+    "title": "Lắng nghe cuộc sống",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0575",
+    "title": "Từ miền đất võ",
+    "author": "Đại tá AHLLVTND Trần Kim Hùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0576",
+    "title": "Một số trận đánh kháng chiến chống thực dân Pháp Tập 2",
+    "author": "Thượng tá TS Lê Quốc Huy",
+    "borrowed": false
+  },
+  {
+    "code": "S0577",
+    "title": "Kỉ niệm 50 năm truyền thống",
+    "author": "Học viện kỹ thuật quân sự",
+    "borrowed": false
+  },
+  {
+    "code": "S0578",
+    "title": "Phong cách HCM lý luận và vận dụng",
+    "author": "Học viện chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0579",
+    "title": "Kỷ yếu",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0580",
+    "title": "Đại thắng mùa xuân 1975",
+    "author": "Viện khoa học xh nhân văn",
+    "borrowed": false
+  },
+  {
+    "code": "S0581",
+    "title": "Chiến trường số trong chiến tranh hiện đại",
+    "author": "Nguyễn Huy Hoàng",
+    "borrowed": false
+  },
+  {
+    "code": "S0582",
+    "title": "Một số loại vũ khí hiện đại trong chiến tranh công nghệ cao",
+    "author": "Lê Khắc Hùng - Nguyễn Huy Hoàng",
+    "borrowed": false
+  },
+  {
+    "code": "S0583",
+    "title": "Những mẫu chuyện về đời hoạt động của Hồ chủ tịch",
+    "author": "Trần Dân Tiên",
+    "borrowed": false
+  },
+  {
+    "code": "S0584",
+    "title": "Văn hoà biển đảo Việt Nam",
+    "author": "Nguyễn Chí Bền",
+    "borrowed": false
+  },
+  {
+    "code": "S0585",
+    "title": "Những bài học về đại đức sống lối sống Bác Hồ",
+    "author": "Nguyễn Thị Phương Hoa",
+    "borrowed": false
+  },
+  {
+    "code": "S0586",
+    "title": "Nhớ về Bác lòng ta trong sáng hơn",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0587",
+    "title": "Hình tượng bộ đội cụ Hồ",
+    "author": "TS Nguyễn Thị Tố Ninh",
+    "borrowed": false
+  },
+  {
+    "code": "S0588",
+    "title": "Làm theo gương Bác",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0589",
+    "title": "Rừng Việt Bắc",
+    "author": "Lê Toán",
+    "borrowed": false
+  },
+  {
+    "code": "S0590",
+    "title": "Bảo vệ Bác Hồ",
+    "author": "Đồng Khắc Thọ",
+    "borrowed": false
+  },
+  {
+    "code": "S0591",
+    "title": "Đối thoại trong đêm",
+    "author": "Nguyễn Chí Trung",
+    "borrowed": false
+  },
+  {
+    "code": "S0592",
+    "title": "Đất nước hình tia chớp",
+    "author": "Trần Mạnh Hảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0593",
+    "title": "Chiến đấu bảo vệ chính quyền cách mạng",
+    "author": "Báo QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0594",
+    "title": "Hồ Chí Minh",
+    "author": "Vũ Như Khôi",
+    "borrowed": false
+  },
+  {
+    "code": "S0595",
+    "title": "Ký ức tháng 8",
+    "author": "TC chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0596",
+    "title": "Sống mãi ngọn lửa rừng Trần Hưng Đạo",
+    "author": "Hoàng Quảng Uyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0597",
+    "title": "Hoà Bình chiến tranh",
+    "author": "Thương tướng Trần Văn Trà",
+    "borrowed": false
+  },
+  {
+    "code": "S0598",
+    "title": "Nguyễn Bá Khoản",
+    "author": "Diệu Ân",
+    "borrowed": false
+  },
+  {
+    "code": "S0599",
+    "title": "Hà Nội Tháng 8",
+    "author": "Nguyễn Quyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0600",
+    "title": "Những Ý Nghĩ Khua Vang Căn Bếp Nhỏ",
+    "author": "Nguyễn Bảo Chân",
+    "borrowed": false
+  },
+  {
+    "code": "S0601",
+    "title": "Hội Nghị Tuổi Trẻ Sáng Tạo Khoa Học",
+    "author": "BQP HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0602",
+    "title": "Khoa công nghệ thông tin 20 năm xây dựng và trưởng thành",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0603",
+    "title": "một số trận đnánh tiêu biểu của dân quân tự vệ và bộ đội địa phương trong chiến tranh giải phóng",
+    "author": "Thiếu tướng Phạm Quang Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0604",
+    "title": "Vấn đề phát triển tư duy lý luận của chính trị viên trong quân dội nhân dân việt nam hiện nay",
+    "author": "Tiến sĩ Đỗ Ngọc Hanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0605",
+    "title": "Xây dựng phong cách tác phong của người đứng đầu, của các bộ,đảng viên trong học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+    "author": "Hoàng Linh",
+    "borrowed": false
+  },
+  {
+    "code": "S0606",
+    "title": "Xây dựng và bảo vệ tổ quốc trong tình hình mới",
+    "author": "Trung tướng Bế Xuân Trường",
+    "borrowed": false
+  },
+  {
+    "code": "S0607",
+    "title": "Hậu cần quân sự trên chiến trường campuchia trong những năm kháng chiến chống mĩ cứu nước",
+    "author": "Dương Hồng Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0608",
+    "title": "Nhưững kho báu nhân loại di sản văn hóa thế giới",
+    "author": "Vương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0609",
+    "title": "130 bài ngữ pháp tiếng anh",
+    "author": "Trần Mạnh Tường",
+    "borrowed": false
+  },
+  {
+    "code": "S0610",
+    "title": "Phong trào đấu tranh chính trị sài gòn -gia định",
+    "author": "Tiến sĩ Lê Qúy Thi",
+    "borrowed": false
+  },
+  {
+    "code": "S0611",
+    "title": "Những chuyển động quốc phòng an ninh của cục diện thế giới khu vực",
+    "author": "Vũ Văn Khanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0612",
+    "title": "Quốc phòng an ninh trong thời kì quá độ lên XHCN việt nam",
+    "author": "Tiến sĩ Nguyễn Vĩnh Thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0613",
+    "title": "Biên giới trên đất liền việt nam-trung quốc biên giới hòa bình ổn định hữu nghị hợp tác và phát triển",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0614",
+    "title": "Hoạt động bảo tàng trong sự nghiệp đổi mói đắt nước",
+    "author": "Cục di sản văn hóa",
+    "borrowed": false
+  },
+  {
+    "code": "S0615",
+    "title": "Bảo tồn và phát triển nghệ thuật chèo trong quân đội nhân dân việt nam hiện nay",
+    "author": "Nguyễn Quốc Trượng",
+    "borrowed": false
+  },
+  {
+    "code": "S0616",
+    "title": "Phương tiện truyền thông xẫ hội về giới trẻ việt nam",
+    "author": "Lê Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0617",
+    "title": "Xây dựng đội ngũ giảng viên quân sự ở các học viện trường sĩ quan quân đội hiện nay",
+    "author": "Tiến sĩ Trần Thanh Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0618",
+    "title": "Văn nghệ quân đội",
+    "author": "Tạp chí của lực lượng vũ trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0619",
+    "title": "HVKTQS Biên niên Sự kiện: 1966 - 2000",
+    "author": "Bộ Quốc phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0620",
+    "title": "Đường dài của hạnh phúc",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0621",
+    "title": "20 lời khuyên dành cho thanh niên",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0622",
+    "title": "Học tập suốt đời và xây dựng xã hội học tập - xu thế phát triển tất yếu",
+    "author": "Phạm Tất Dong",
+    "borrowed": false
+  },
+  {
+    "code": "S0623",
+    "title": "Giáo trình Tin học phổ thông - Microsoft WORD",
+    "author": "Đinh Xuân Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0624",
+    "title": "Ứng dụng cơ bản Windows 98",
+    "author": "Nguyễn Ngọc Toàn",
+    "borrowed": false
+  },
+  {
+    "code": "S0625",
+    "title": "Tự học CoreIDRAW12",
+    "author": "Vương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0626",
+    "title": "Mong manh như là tia nắng",
+    "author": "Lê Minh Khuê",
+    "borrowed": false
+  },
+  {
+    "code": "S0627",
+    "title": "Bóng chiều yên ả",
+    "author": "Ngọc Thị Lan Thái",
+    "borrowed": false
+  },
+  {
+    "code": "S0628",
+    "title": "Kiếp nghèo",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0629",
+    "title": "Dặm dài biên ải",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0630",
+    "title": "Mưa nguồn chớp bể",
+    "author": "Đỗ Kim Cuông",
+    "borrowed": false
+  },
+  {
+    "code": "S0631",
+    "title": "Nhà văn về làng",
+    "author": "Lê Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0632",
+    "title": "Tám vị vua Triều Lý",
+    "author": "Vũ Ngọc Khánh",
+    "borrowed": false
+  },
+  {
+    "code": "S0633",
+    "title": "Một số lời dạy và mẩu chuyện về tấm gương đạo đức của chủ tịch Hồ Chí Minh",
+    "author": "Ban tư tưởng - văn hóa trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0634",
+    "title": "Mắt bà ở phía khơi xa",
+    "author": "Thy Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0635",
+    "title": "Người đẹp làng Quỳ",
+    "author": "Phan Xuân Hậu",
+    "borrowed": false
+  },
+  {
+    "code": "S0636",
+    "title": "Tháng không ngày",
+    "author": "Trần Thị Thắng",
+    "borrowed": false
+  },
+  {
+    "code": "S0637",
+    "title": "Một số trận đánh tiêu biểu của dân quân tự vệ và BDDP trong chiến tranh giải phóng tập 3",
+    "author": "Phạm Quang Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0638",
+    "title": "Những năm tháng không quên",
+    "author": "Đinh Mộng Tiên",
+    "borrowed": false
+  },
+  {
+    "code": "S0639",
+    "title": "Một số nét nghệ thuật tiêu biểu về sử dụng lực lượng phản công chiến lược trong kháng chiến chống mỹ cứu nước",
+    "author": "Lê Hữu Trường",
+    "borrowed": false
+  },
+  {
+    "code": "S0640",
+    "title": "Vòng xoáy kiếp người",
+    "author": "Tiết Minh Hà",
+    "borrowed": false
+  },
+  {
+    "code": "S0641",
+    "title": "Người chiến sĩ biên phòng",
+    "author": "Phan Nguyệt",
+    "borrowed": false
+  },
+  {
+    "code": "S0642",
+    "title": "Mưa đang trôi qua sông",
+    "author": "Huỳnh Thạch Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0643",
+    "title": "Chuyện kể sau chiến tranh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0644",
+    "title": "Chín bậc thang nhà người",
+    "author": "Phạm Tú Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0645",
+    "title": "Bay theo bầy thiên nga",
+    "author": "Nguyễn Thu Hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0646",
+    "title": "Trưởng thành từ người lính",
+    "author": "Phan Vĩnh Điển",
+    "borrowed": false
+  },
+  {
+    "code": "S0647",
+    "title": "Hơi Ấm linh cảm",
+    "author": "Trần Nguyễn Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0648",
+    "title": "Vấp ngã để rồi trưởng thành",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0649",
+    "title": "Bình minh xanh lam",
+    "author": "Hoàng Kháng Duy",
+    "borrowed": false
+  },
+  {
+    "code": "S0650",
+    "title": "Tư tưởng tấm gương đạo đưcs Hồ Chí Minh",
+    "author": "Trần Minh Trưởng",
+    "borrowed": false
+  },
+  {
+    "code": "S0651",
+    "title": "HỒ CHÍ MINH nhà vănhoas kiệt xuất",
+    "author": "SONG THÀNH",
+    "borrowed": false
+  },
+  {
+    "code": "S0652",
+    "title": "Giữ vững nền tảng tư tưởng tăng cường sự lãnh đạo của đảng rong tình hình mới",
+    "author": "Học viện chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0653",
+    "title": "Vòng quanh thế giới khám phá đất nước Pháp",
+    "author": "Anh Thơ",
+    "borrowed": false
+  },
+  {
+    "code": "S0654",
+    "title": "Những kho báu của nhân loại di sản thế giới",
+    "author": "Vương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0655",
+    "title": "Bảo tàng góp phần hoàn thiện nhân cách con người",
+    "author": "Bảo táng cách mạng Việt Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0656",
+    "title": "Khám phá việt nam vùng biển đảo tây ban nha",
+    "author": "Lê Khôi",
+    "borrowed": false
+  },
+  {
+    "code": "S0657",
+    "title": "Kỉ niệm 45 năm ngày truyền thống 28-10-1966/ 28-10-2011",
+    "author": "Học viện KTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0658",
+    "title": "Hội Nghị Tuổi Trẻ Sáng Tạo Khoa Học lần thứ 46",
+    "author": "Học viện KTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0659",
+    "title": "40 năm ngày nhập trường",
+    "author": "Học viện KTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0660",
+    "title": "Sổ tay giảng viên",
+    "author": "Học viện KTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S0661",
+    "title": "HỒ CHÍ MINH kiến trúc sư lỗi lạc của nền hành chính NHÀ NƯỚC VIỆT NAM",
+    "author": "Trần Đình Huỳnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0662",
+    "title": "Những mẩu chuyện nhỏ có ý nghĩa lớn về tư tưởng đạo đức phong cách HỒ CHÍ MINH",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0663",
+    "title": "Tài liệu tuyên truyền 60 năm ngày thương binh liệt sĩ",
+    "author": "ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0664",
+    "title": "Anh hùng không vinh danh",
+    "author": "Lễ Văn Vọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0665",
+    "title": "xách ba lô lên, có ai đó chờ ta ở nhà",
+    "author": "EROS Thái Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0666",
+    "title": "tháng ngày đẹp nhất",
+    "author": "Nguyễn Đức Phú Thọ",
+    "borrowed": false
+  },
+  {
+    "code": "S0667",
+    "title": "câu chuyện ngày chiến thắng trở về",
+    "author": "nhiều tắc giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0668",
+    "title": "chuyện tinhd của lính",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0669",
+    "title": "Đôi bàn tay mẹ",
+    "author": "EROS thái Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0670",
+    "title": "về miền tây theo dấu người tình",
+    "author": "Phùng Nguyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0671",
+    "title": "cung đường lửa",
+    "author": "Tùng Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0672",
+    "title": "Chim cánh cụt biết bay",
+    "author": "cao thanh mai",
+    "borrowed": false
+  },
+  {
+    "code": "S0673",
+    "title": "Tuổi trẻ không lạc hướng",
+    "author": "Mai Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0674",
+    "title": "Huyền thoại sống",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0675",
+    "title": "Thống kê các chiến dịch trong chiến tranh kháng chiến chống Phán",
+    "author": "Viện lịch sử quân sự việt nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0676",
+    "title": "Hoạt động bảo táng trong sự việc đổi mới đất nước",
+    "author": "Viện lịch sử quân sự việt nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0677",
+    "title": "Những tấm gương bình dị mà cao quý",
+    "author": "Báo QDND",
+    "borrowed": false
+  },
+  {
+    "code": "S0678",
+    "title": "Bộ đội cụ hồ trong lòng dân",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0679",
+    "title": "Chuyện về baoe đảm hậu cần kĩ thuật trong kháng chiến chống mĩ cứu nước",
+    "author": "Dương Hồng Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0680",
+    "title": "Đêm trắng giữa rừng xanh",
+    "author": "Phan Nguyệt",
+    "borrowed": false
+  },
+  {
+    "code": "S0681",
+    "title": "Gửi trăng về núi",
+    "author": "Hoàng Thị Hiền",
+    "borrowed": false
+  },
+  {
+    "code": "S0682",
+    "title": "Dưới thềm cũ rêu phong",
+    "author": "Đào An Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0683",
+    "title": "Chiến trường vẫy gọi",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0684",
+    "title": "5 phút và 2 tích tắc",
+    "author": "Đỗ Văn Nhâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0685",
+    "title": "Hại người bạn lính",
+    "author": "Vũ Công Chiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0686",
+    "title": "Những ngọn gió thổi ngược",
+    "author": "Đặng Thùy Tiên",
+    "borrowed": false
+  },
+  {
+    "code": "S0687",
+    "title": "Đảo thức",
+    "author": "Nguyễn Thu Hằng",
+    "borrowed": false
+  },
+  {
+    "code": "S0688",
+    "title": "Nơi tôi gọi là Tổ quốc",
+    "author": "Nguyễn Hữu Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0689",
+    "title": "Mùa hạ",
+    "author": "Châu La Việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0690",
+    "title": "Cuộc Việt dã cuối thu",
+    "author": "Lê Ngọc Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0691",
+    "title": "Giáo sư Quân đội Nhân dân Việt Nam",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0692",
+    "title": "Dòng đời và chiến trận",
+    "author": "Phùng Phương Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0693",
+    "title": "Lặng nghe hoa nở",
+    "author": "Phạm Phương Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0694",
+    "title": "Cuộc đời không định trước",
+    "author": "Vũ Thảo Ngọc",
+    "borrowed": false
+  },
+  {
+    "code": "S0695",
+    "title": "Chảy đi Sông ơi",
+    "author": "Đỗ Nhật Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0696",
+    "title": "Cha và con",
+    "author": "Lê Danh Toàn",
+    "borrowed": false
+  },
+  {
+    "code": "S0697",
+    "title": "Lúc ấy biển hoàng hôn",
+    "author": "Hồ Thủy Giang",
+    "borrowed": false
+  },
+  {
+    "code": "S0698",
+    "title": "Chiều chưa tắt nắng / Đom đóm trong vườn",
+    "author": "Vũ Lê Hương / Khiếu Quang Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0699",
+    "title": "Đi trong phố thu",
+    "author": "Tản Văn",
+    "borrowed": false
+  },
+  {
+    "code": "S0700",
+    "title": "Ba người trở lại làng Tằm",
+    "author": "Nguyễn Thái Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0701",
+    "title": "Cung đường máu lửa",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0702",
+    "title": "Bài ca bên cảnh võng",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0703",
+    "title": "Chân dung các nghệ sĩ quân đội",
+    "author": "Thái Chí Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0704",
+    "title": "Lính trẻ nơi đầu sóng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0705",
+    "title": "Phận người miền biên ải",
+    "author": "Nông Quốc Lập",
+    "borrowed": false
+  },
+  {
+    "code": "S0706",
+    "title": "Người ơi!... Có nhớ...",
+    "author": "Phạm Ngọc Chiểu",
+    "borrowed": false
+  },
+  {
+    "code": "S0707",
+    "title": "Việt nam không thể nào quên",
+    "author": "Cựu chiến binh xô viết",
+    "borrowed": false
+  },
+  {
+    "code": "S0708",
+    "title": "Hồ Chí Minh tên người sống mãi",
+    "author": "Sưu tầm",
+    "borrowed": false
+  },
+  {
+    "code": "S0709",
+    "title": "Xuân Trường Xa",
+    "author": "Đặng Minh Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0710",
+    "title": "Hạ Cháy",
+    "author": "Đặng Lưu Duy",
+    "borrowed": false
+  },
+  {
+    "code": "S0711",
+    "title": "Nước Nga tình yêu và nỗi nhớ",
+    "author": "Trần Ngọc Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0712",
+    "title": "Văn hóa dân gian biển đảo vùng Bắc Bộ",
+    "author": "Võ Thị Hoàng Lan",
+    "borrowed": false
+  },
+  {
+    "code": "S0713",
+    "title": "Một dải non sông",
+    "author": "Nguyễn Chí Trung",
+    "borrowed": false
+  },
+  {
+    "code": "S0714",
+    "title": "Kom Tum sâu nặng ân tình",
+    "author": "Thái Phước Hiệp",
+    "borrowed": false
+  },
+  {
+    "code": "S0715",
+    "title": "Phật giáo nam tông KHmer vùng tây nam bộ và chính sách đảng, nhà nước việt nam",
+    "author": "Hoàng Minh Đô",
+    "borrowed": false
+  },
+  {
+    "code": "S0716",
+    "title": "Xin Đừng thả gió heo may",
+    "author": "Nguyễn Thanh Duyên",
+    "borrowed": false
+  },
+  {
+    "code": "S0717",
+    "title": "Mái nhà lính thợ",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0718",
+    "title": "Vai trò của thủy quân trong kháng chiến chống ngoại xâm lước thời lý trần",
+    "author": "Trần Xuân Hưng",
+    "borrowed": false
+  },
+  {
+    "code": "S0719",
+    "title": "Những trạng nguyên đặc biệt trong lịch sử việt nam",
+    "author": "Dương Phong",
+    "borrowed": false
+  },
+  {
+    "code": "S0720",
+    "title": "Trái tim huyển thoại",
+    "author": "Hữu Phương",
+    "borrowed": false
+  },
+  {
+    "code": "S0721",
+    "title": "Thủ lĩnh rừng già",
+    "author": "Hà Lâm Kỳ",
+    "borrowed": false
+  },
+  {
+    "code": "S0722",
+    "title": "Một số trận đánh tiêu biểu của dân quân tự vệ và BDDP trong chiến tranh giải phóng tập 1",
+    "author": "Phạm Quang Ngân",
+    "borrowed": false
+  },
+  {
+    "code": "S0723",
+    "title": "Bay trên đồi cọ",
+    "author": "Hoàng Anh Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0724",
+    "title": "Người ở thượng nguồn",
+    "author": "Nguyễn Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0725",
+    "title": "Chạy về phía mặt trời",
+    "author": "Nguyễn Ngọc Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0726",
+    "title": "Những mùa lính",
+    "author": "Hà Phạm Phú",
+    "borrowed": false
+  },
+  {
+    "code": "S0727",
+    "title": "Người kiên cường",
+    "author": "Nguyễn Liên",
+    "borrowed": false
+  },
+  {
+    "code": "S0728",
+    "title": "Hồn phố",
+    "author": "Phạm Quý",
+    "borrowed": false
+  },
+  {
+    "code": "S0729",
+    "title": "Chở tình qua sông",
+    "author": "Nguyễn Thị Việt Hà",
+    "borrowed": false
+  },
+  {
+    "code": "S0730",
+    "title": "Bộ đội thông tin đi trước về sau",
+    "author": "Nguyễn Duy Nhơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0731",
+    "title": "Hương xưa mùa cũ",
+    "author": "Ngô Đức Hành",
+    "borrowed": false
+  },
+  {
+    "code": "S0732",
+    "title": "Phong cách diễn đạt của Bác Hồ",
+    "author": "Phan Tuyết",
+    "borrowed": false
+  },
+  {
+    "code": "S0733",
+    "title": "Miền quê đáng sống",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0734",
+    "title": "Nhật ký gửi hòa bình",
+    "author": "Đoàn Anh Thông",
+    "borrowed": false
+  },
+  {
+    "code": "S0735",
+    "title": "Lỗi nhịp",
+    "author": "Khiếu Quang Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0736",
+    "title": "Chị Son",
+    "author": "Chung Tiến Lực",
+    "borrowed": false
+  },
+  {
+    "code": "S0737",
+    "title": "Hồi sinh",
+    "author": "Tạ Thị Thanh Hải",
+    "borrowed": false
+  },
+  {
+    "code": "S0738",
+    "title": "Bãi vắng",
+    "author": "Tùng Điển",
+    "borrowed": false
+  },
+  {
+    "code": "S0739",
+    "title": "Một vùng đất",
+    "author": "Nguyễn Minh Ngọc",
+    "borrowed": false
+  },
+  {
+    "code": "S0740",
+    "title": "Kỷ vật kháng chiến tập 11",
+    "author": "Tổng cục chính trị quân đội nhân dân Việt Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0741",
+    "title": "Duyên Hoa",
+    "author": "Nguyễn Văn Học",
+    "borrowed": false
+  },
+  {
+    "code": "S0742",
+    "title": "HỒ CHÍ MINH tên người sống mãi",
+    "author": "sưu tầm và tuyển chọn",
+    "borrowed": false
+  },
+  {
+    "code": "S0743",
+    "title": "đời bộ đội của tôi",
+    "author": "AHLLVT Đỗ Văn Trì",
+    "borrowed": false
+  },
+  {
+    "code": "S0744",
+    "title": "Cánh đồng chung gió hát",
+    "author": "NGUYỄN ANH DŨNG",
+    "borrowed": false
+  },
+  {
+    "code": "S0745",
+    "title": "Họ là những người lính tiểu thuêts tập1",
+    "author": "VŨ CÔNG CHIẾN",
+    "borrowed": false
+  },
+  {
+    "code": "S0746",
+    "title": "họ là những người lính tiểu thuêts tập2",
+    "author": "VŨ CÔNG CHIẾN",
+    "borrowed": false
+  },
+  {
+    "code": "S0747",
+    "title": "nguyễn thái học",
+    "author": "LÊ MINH QUỐC",
+    "borrowed": false
+  },
+  {
+    "code": "S0748",
+    "title": "góc khuất tập truyện ngắn",
+    "author": "xuân tuynh",
+    "borrowed": false
+  },
+  {
+    "code": "S0749",
+    "title": "Hát bên bếp lửa",
+    "author": "Hữu Tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0750",
+    "title": "xây dựng sự độc đáp cách để khởi nghiệp từ đam mê",
+    "author": "riccado pozzoli",
+    "borrowed": false
+  },
+  {
+    "code": "S0751",
+    "title": "êxel tự học nhanh 2007",
+    "author": "trí việt hà thành",
+    "borrowed": false
+  },
+  {
+    "code": "S0752",
+    "title": "Tiếng đàn tuổi 20",
+    "author": "chau la việt",
+    "borrowed": false
+  },
+  {
+    "code": "S0753",
+    "title": "Sáng mãi phẩm chất bộ đội cụ HỒ tập XVI",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0754",
+    "title": "ai về bến ô lâm",
+    "author": "vương tâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0755",
+    "title": "thâm tâm truyện vừa",
+    "author": "nguyễn đức tĩnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0756",
+    "title": "người mai mật danh báo đen",
+    "author": "đinh văn lời",
+    "borrowed": false
+  },
+  {
+    "code": "S0757",
+    "title": "vực thẳm trắng",
+    "author": "nguyễn hiệp",
+    "borrowed": false
+  },
+  {
+    "code": "S0758",
+    "title": "trải lonhf bút kí",
+    "author": "trần nguyễn anh",
+    "borrowed": false
+  },
+  {
+    "code": "S0759",
+    "title": "đêm ko bóng tối",
+    "author": "tống ngọc hân",
+    "borrowed": false
+  },
+  {
+    "code": "S0760",
+    "title": "Con đường tôi đi",
+    "author": "Nguyễn Viết Khai",
+    "borrowed": false
+  },
+  {
+    "code": "S0761",
+    "title": "Thử Lửa",
+    "author": "Nghiêm Sỹ Chúng",
+    "borrowed": false
+  },
+  {
+    "code": "S0762",
+    "title": "Lăng chủ tịch Hồ Chí Minh Đài hoa vĩnh cửu",
+    "author": "Hồ Phương",
+    "borrowed": false
+  },
+  {
+    "code": "S0763",
+    "title": "Làng chiên đấu vùng đồng bằng Bắc Bộ trong cuộc kháng chiên chống thức dân pháp (1945 - 1954)",
+    "author": "Lê Thanh Bài",
+    "borrowed": false
+  },
+  {
+    "code": "S0764",
+    "title": "Nguyễn Kiệm vị tướng trận mạc, liêm chính",
+    "author": "Hoàng Tiến - Bích Trang",
+    "borrowed": false
+  },
+  {
+    "code": "S0765",
+    "title": "tự học exel với kế toán doanh nghiệp",
+    "author": "đức tùng",
+    "borrowed": false
+  },
+  {
+    "code": "S0766",
+    "title": "ngang dọc đồng bằng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0767",
+    "title": "băng cánh đồng biên",
+    "author": "nghiêm quốc thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S0768",
+    "title": "gối đầu liên sóng tập2",
+    "author": "vân thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0769",
+    "title": "gối đầu liên sóng tập1",
+    "author": "vân thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S0770",
+    "title": "yêu sao những bàn tay lao đông",
+    "author": "nguyễn văn học",
+    "borrowed": false
+  },
+  {
+    "code": "S0771",
+    "title": "Tiểu phẩm pháp luật thanh niên quân đội nói không với vi phạm pháp luật, kỷ luật",
+    "author": "Ban thanh niên quân đội",
+    "borrowed": false
+  },
+  {
+    "code": "S0772",
+    "title": "Giáo trình luật hiến pháp Việt Nam",
+    "author": "PGS.TS. Vũ Trọng Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0773",
+    "title": "Sổ tay tuyên truyền, phổ biến pháp luật, giáo dục công dân",
+    "author": "TS. Phạm Văn Giáp",
+    "borrowed": false
+  },
+  {
+    "code": "S0774",
+    "title": "Giáo trình luật hành chính Việt Nam",
+    "author": "PGS.TS.GVCC. Phan Trung Hiền",
+    "borrowed": false
+  },
+  {
+    "code": "S0775",
+    "title": "Luật thi hành án dân sự",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0776",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2018",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0777",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2014",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0778",
+    "title": "Luật thanh niên năm 2020",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0779",
+    "title": "Luật Cảnh sát biển Việt Nam",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0780",
+    "title": "Luật khiếu nại",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0781",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2013",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0782",
+    "title": "Luật bảo vệ bí mật nhà nước",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0783",
+    "title": "Luật bảo vệ bí mật nhà nước (hiện hành)",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0784",
+    "title": "Luật phòng chống tác hại rượu bia",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0785",
+    "title": "Luật tín ngưỡng tôn giáo",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0786",
+    "title": "Luật thi hành án hình sự",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0787",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2023",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0788",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2019",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0789",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2017",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0790",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2016",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0791",
+    "title": "Luật giáo dục",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0792",
+    "title": "Công tác kiểm tra, giám sát của tổ chức Đảng ở cơ sở trong Đảng bộ Quân đội",
+    "author": "Quân ủy Trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0793",
+    "title": "Hướng dẫn một số nội dung nghiệp vụ quản lý Đảng viên trong Đảng bộ Quân đội",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0794",
+    "title": "Luật cảnh sát biển Việt Nam(có hiệu lực từ 1/7/2019)",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0795",
+    "title": "Quy định thẩm quyền thi hành kỷ luật về Đảng và xem xét thông qua kỷ luật Quân đội của tổ chức Đảng các cấp trong QD",
+    "author": "Quân ủy Trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0796",
+    "title": "Công tác kiểm tra của tổ chức Đảng ở cơ sở trong Đảng bộ Quân đội",
+    "author": "Đảng ủy Quân sự Trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0797",
+    "title": "Quy chế giáo dục chính trị trong Quân đội nhân dân và DQTV Việt Nam",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0798",
+    "title": "Luật Quốc phòng( và các văn bản hướng dẫn thi hành)",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0799",
+    "title": "Điều lệ CTD-CTCT trong QDND Việt Nam",
+    "author": "Quân ủy Trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0800",
+    "title": "Chức trách nhiệm vụ, mối quan hệ công tác của chính ủy, chính trị viên, chủ nhiệm chính trị, chức năng nhiệm vụ mối quan hệ công tác của cơ quan chính trị",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0801",
+    "title": "Luật hôn nhân và gia đình",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0802",
+    "title": "Đề cương tuyên truyền phổ biến Luật Quốc Phòng 2018",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0803",
+    "title": "Luật giao thông đường bộ",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0804",
+    "title": "Tài liệu phổ biến giáo dục pháp luật",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0805",
+    "title": "Một số vấn đề về chủ quyền biển đảo và vùng đất Tây Nam Bộ của Việt Nam",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0806",
+    "title": "Luật nghĩa vụ quân sự",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0807",
+    "title": "Luật Quốc Phòng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0808",
+    "title": "Tổ chức sự lãnh đạo của Đảng trong QDND Việt Nam",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0809",
+    "title": "Hướng dẫn công tác quản lý Đảng viên trong Đảng bộ QD",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0810",
+    "title": "Quy định chức năng nhiệm vụ Đảng bộ, chi bộ cơ sở trong QDND Việt Nam",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0811",
+    "title": "Luật cư trú và văn bản hướng dẫn thi hành",
+    "author": "Hà My",
+    "borrowed": false
+  },
+  {
+    "code": "S0812",
+    "title": "Luật thỏa thuận quốc tế",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0813",
+    "title": "Điều lệ công tác bảo vệ môi trường của QDND Việt Nam",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0814",
+    "title": "Điều lệ công tác KH&CN QDND Việt Nam",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0815",
+    "title": "Luật về các lực lượng vũ trang",
+    "author": "Mai Vân",
+    "borrowed": false
+  },
+  {
+    "code": "S0816",
+    "title": "Hướng dẫn nghiệp vụ công tác tổ chức xây dựng Đảng trong QDND Việt Nam",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0817",
+    "title": "Một số quy định hướng dẫn về công tác tổ chức xây dựng Đảng trong Đảng bộ Quân đội",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0818",
+    "title": "Hướng dẫn triển khai các phân đội phản ứng nhanh bệnh viện dã chiến truyền nhiễm điều trị covid 19",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S0819",
+    "title": "Luật tố cáo",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0820",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2011",
+    "author": "Hội đồng phối hợp công tác phổ biến giáo dục pháp luật BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S0821",
+    "title": "Luật DQTV",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0822",
+    "title": "Luật khiếu nại tố cáo",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0823",
+    "title": "Luật thanh niên",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0824",
+    "title": "Thông tư quy định việc áp dụng các hình thức kỷ luật, trình tự thủ tục thời hiệu thời hạn và thẩm quyền xử lý kỷ luật trong BQP",
+    "author": "BỘ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0825",
+    "title": "Đề cương tuyên truyền phổ biến Luật DQTV",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S0826",
+    "title": "Hành quân bộ trong huấn luyện thể lực",
+    "author": "Cục Quân Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0827",
+    "title": "Hướng dẫn thực hiện điều lệ đoàn thanh niên cơ sở HCM",
+    "author": "Trung ương Đoàn thanh niên cộng sản HCM",
+    "borrowed": false
+  },
+  {
+    "code": "S0828",
+    "title": "Luật phòng chống ma túy",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0829",
+    "title": "Sổ tay phòng chống dịch covid 19",
+    "author": "Ban chỉ đạo phòng chống dịch covid 19",
+    "borrowed": false
+  },
+  {
+    "code": "S0830",
+    "title": "Đề cương phổ biến giáo dục về luật an ninh QG",
+    "author": "Hội đồng phối hợp công tác phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0831",
+    "title": "Luật người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0832",
+    "title": "Tài liệu hỏi đáp về ác văn kiện hội nghị lần thứ năm ban chấp hành trung ương Đảng khóa XIII",
+    "author": "Ban Tuyên giáo Trung ương Đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0833",
+    "title": "Tài liệu tuyên truyền về NVQS hướng nghiệp học nghề cho bộ đội xuất ngũ",
+    "author": "Cục Quân lực",
+    "borrowed": false
+  },
+  {
+    "code": "S0834",
+    "title": "Luật giáo dục QPAN",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0835",
+    "title": "Quy tắc thi đấu võ chiến đấu tay không trong QDND VN",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S0836",
+    "title": "Hướng dẫn tổ chức phương pháp thông qua giáo án bồi dưỡng cán bộ huấn luyện KTCDBB",
+    "author": "Cục quân huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0837",
+    "title": "Luật thanh niên năm 2005",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0838",
+    "title": "Luật bầu cử Đại biểu hội đồng nhân dân",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0839",
+    "title": "Quy chế công tác vật tư CTD CTCT trong QDND VN",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0840",
+    "title": "Pháp lệnh ưu đãi người có công với cách mạng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0841",
+    "title": "Chiến lược phát triển giáo dục dào tạo trong QD giai đoạn 2011-2020",
+    "author": "BỘ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0842",
+    "title": "Luật Quốc phòng",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0843",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2007",
+    "author": "Cục tư tưởng văn hóa",
+    "borrowed": false
+  },
+  {
+    "code": "S0844",
+    "title": "Tài liệu phổ biến giáo dục pháp luật năm 2010",
+    "author": "Hội đồng phối hợp công tác phổ biến giáo dục pháp luật BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S0845",
+    "title": "Ngiệp vụ phổ biến giáo dục pháp luật dành cho báo cóa viên pháp luật trong QD",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0846",
+    "title": "Công ước chống tra tấn và các hình thức trừng phạt hay đối xử tàn ác vô nhân đạo hoặc hạ thấp nhân phẩm năm 1984",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0847",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2013",
+    "author": "Hội đồng phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0848",
+    "title": "Luật thanh niên và một số nghị định hướng dẫn thi hành",
+    "author": "nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S0849",
+    "title": "Luật cư trú hộ tịch hộ khẩu",
+    "author": "nhiều tác gải",
+    "borrowed": false
+  },
+  {
+    "code": "S0850",
+    "title": "Tài liệu học tập luật GTDB",
+    "author": "Bộ GTVT",
+    "borrowed": false
+  },
+  {
+    "code": "S0851",
+    "title": "Tài liệu tuyên truyền phổ biến nội dung công ước cảu LHQ về chống tra tấn và các hình thức đối xử hoặc trừng phạt tàn bạo vô nhân đạo hoặc hạ nhục con người pháp luật việt nam có liên quan đến chống tra tấn và quyền con người trong QD",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0852",
+    "title": "Câu chuyện pháp luật",
+    "author": "Bùi Thanh Hưởng",
+    "borrowed": false
+  },
+  {
+    "code": "S0853",
+    "title": "Phòng chống DBHB trong sự nghiệp xây dựng và BVTQ tập 4",
+    "author": "Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0854",
+    "title": "Phòng chống DBHB trong sự nghiệp xây dựng và BVTQ tập 5",
+    "author": "Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0855",
+    "title": "Phòng chống DBHB trong sự nghiệp xây dựng và BVTQ tập 6",
+    "author": "Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S0856",
+    "title": "Hỏi đáp về luật biển Việt Nam",
+    "author": "Hồng Quỳnh",
+    "borrowed": false
+  },
+  {
+    "code": "S0857",
+    "title": "Văn bản về phổ biến giáo dục pháp luật",
+    "author": "Hội đồng phối hợp phổ biến giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S0858",
+    "title": "Quy chế công tác kế hoạch tổng hợp về CTD CTCT Quy định hệ thống văn kiện CTD CTCT và quy định tiêu chí đánh giá kết quả hoạt động CTD CTCT trong QDND VN",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S0859",
+    "title": "Luật giáo dục nghề nghiệp và văn bản hướng dẫn thi hành",
+    "author": "Hội luật gia Việt Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0860",
+    "title": "Tài liệu tuyên truyền phỏ biến nội dung công ước của liên hợp quốc về chống tra tấn và các hình thức đối xử hoặc trừng phạt tàn bạo vô nhân đạo hoặc hạ nhục con người pháp luật việt nam có liên quan đến tra tấn và quyền con người trong quân đội",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0861",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2018",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0862",
+    "title": "Tài liệu phổ biến giáo dục pháp luật 2021",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0863",
+    "title": "Luật quy hoạch đô thị và nông thôn năm 2024",
+    "author": "VŨ VĂN KIỆT",
+    "borrowed": false
+  },
+  {
+    "code": "S0864",
+    "title": "Một số nội dung cơ bản của bộ luật tố tụng dân sự năm 2024",
+    "author": "PHẠM QUANG ĐỊNH",
+    "borrowed": false
+  },
+  {
+    "code": "S0865",
+    "title": "Luật sửa đổi bổ sung một số điều của luật xử lý vi phạm hành chính",
+    "author": "LÊ QUANG KHÔI",
+    "borrowed": false
+  },
+  {
+    "code": "S0866",
+    "title": "Luật phòng chống tham nhũng",
+    "author": "NGUYỄN XUÂN TRƯỜNG",
+    "borrowed": false
+  },
+  {
+    "code": "S0867",
+    "title": "Hỏi đáp về luật quốc phòng năm 2018 và một số nghị định của chính phủ quy định chi tiết thi hành luật",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0868",
+    "title": "Luật thực hiện dân chủ ở cơ sở",
+    "author": "LÊ THANH HÀ",
+    "borrowed": false
+  },
+  {
+    "code": "S0869",
+    "title": "Quy định chức trách nhiệm vụ mqh công tác của chính uỷ ctv cnct chức năng nhiệm vụ mối quan hệ công tác của cơ quan chính trị các cấp trong quân đội nhân dân",
+    "author": "HOÀNG LAN ANH",
+    "borrowed": false
+  },
+  {
+    "code": "S0870",
+    "title": "Đổi mới công tác tư tưởng của ĐCSVN trong giai đoạn hiện nay",
+    "author": "PPGSTS. PHẠM VAN LINH",
+    "borrowed": false
+  },
+  {
+    "code": "S0871",
+    "title": "Những nhận thức và tư duy mới trong các văn kiện đại hội XIII của Đảng",
+    "author": "TS. NGUYỄN VĂN MINH",
+    "borrowed": false
+  },
+  {
+    "code": "S0872",
+    "title": "Hướng dẫn tiến hành đại hội Đảng các cấp trong đảng bộ quân đội tiến tới đại hội đại biểu toàn quốc lần thứ XI của Đảng",
+    "author": "TCCT CỤC TỔ CHỨC",
+    "borrowed": false
+  },
+  {
+    "code": "S0873",
+    "title": "Quy định, hướng dẫn cụ thế thi hành điều lệ đảng",
+    "author": "ĐCSVN ban chấp hành trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0874",
+    "title": "Văn kiện hội nghị lần thứ 3 ban chấp hành trung ương khóa XIII",
+    "author": "ĐCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0875",
+    "title": "Văn kiện hội nghị lần thứ bảy ban chấp hành trung ương khóa XII",
+    "author": "ĐCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0876",
+    "title": "Văn kiện hội nghị lần thứ tám ban chấp hành trung ương khóa XI",
+    "author": "ĐCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0877",
+    "title": "Văn kiện hội nghị lần thứ chín ban chấp hành trung ương khóa IX",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0878",
+    "title": "Văn kiện hội nghị lần thứ tư ban chấp hành trung ương khóa X",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0879",
+    "title": "Văn kiện hội nghị lần thứ ba ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0880",
+    "title": "Văn kiện đại hội đại biểu toàn quốc lần thứ XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0881",
+    "title": "Văn kiện hội nghị lần thứ 11 ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0882",
+    "title": "Văn kiện đại hội đại biểu toàn quốc lần thứ XIII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0883",
+    "title": "Văn kiện hội nghị lần thứ sáu ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0884",
+    "title": "Văn kiện hội nghị lần thứ chín ban chấp hành trung ương khóa X",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0885",
+    "title": "Văn kiện hội nghị lần thứ mười ban chấp hành trung ương khóa XI",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0886",
+    "title": "Tài liệu nghiên cứu các văn kiện đại hội đại biểu toàn quốc lần thứ XII của Đảng",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0887",
+    "title": "Tài liệu học tập các văn kiện đại hội đại biểu toàn quốc lần thứ XII của đảng",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0888",
+    "title": "Văn kiện hội nghị lần thứ tám ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0889",
+    "title": "Văn kiện hội nghị lần thứ năm ban chấp hành trung ương khóa X",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0890",
+    "title": "Văn kiện hội nghị lần thứ sáu( lần 2) ban chấp hành trung ương khóa VIII",
+    "author": "DDCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0891",
+    "title": "Văn kiện hội nghị lần thứ năm ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0892",
+    "title": "Văn kiện hội nghị lần thứ tư ban chấp hành trung ương khóa XII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0893",
+    "title": "Văn kiện hội nghị lần thứ 8 ban chấp hành trung ương khóa XIII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0894",
+    "title": "Văn kiện hội nghị lần thứ ba ban chấp hành trung ương khóa XI",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0895",
+    "title": "Tài liệu học tập Các văn kiện hội nghị lần thứ 8 ban chấp hành TW đảng khóa XII",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0896",
+    "title": "Tài liệu học tập Các văn kiện hội nghị lần thứ 7 ban chấp hành TW đảng khóa XII",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0897",
+    "title": "Tài liệu hỏi đáp về các văn kiên đại hội đại biểu toàn quốc lần thứ XIII của đảng",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0898",
+    "title": "Tài liệu học tập Các văn kiện hội nghị lần thứ 8 ban chấp hành TW đảng khóa XIII",
+    "author": "Ban tuyên giáo trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0899",
+    "title": "Văn kiện đại hội đại biểu công đoàn quân đội lần thứ X (2023-2028)",
+    "author": "Ban công đoàn quốc phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S0900",
+    "title": "văn kiện hội nghị lần thứ 9 ban chấp hành TW đảng khóa XI",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0901",
+    "title": "Văn kiện hội nghị lần thứ sáu ban chấp hành trung ương khóa XI",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0902",
+    "title": "Văn kiện đại hội đại biểu toàn quốc lần thứ XI",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0903",
+    "title": "Văn kiện hội nghị lần thứ năm ban chấp hành trung ương khóa IX",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0904",
+    "title": "Văn kiện hội nghị lần thứ sáu ban chấp hành trung ương khóa X",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0905",
+    "title": "Văn kiện hội nghị lần thứ 3 ban chấp hành trung ương khóa X",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0906",
+    "title": "Văn kiện hội nghị lần thứ tư ban chấp hành trung ương khóa XIII",
+    "author": "DCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0907",
+    "title": "Các văn bản của TW và thành phố về bầu cử đại biểu quốc hội khóa XII",
+    "author": "Ủy ban bầu cử đại biểu quốc hội khóa XII Tp Hà nội",
+    "borrowed": false
+  },
+  {
+    "code": "S0908",
+    "title": "Tài liệu bồi dưỡng nhận thức về đảng dành cho đối tượng kết nạp đảng",
+    "author": "-Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0909",
+    "title": "Tài liệu học tập chính trị của lực lượng dự bị động viên",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0910",
+    "title": "Tài liệu tuyên truyền kỉ niệm 30 năm ngày hội quốc phòng toàn (22.12.1989-22.12.2019) và 75 năm thành lập quân đội nhân dân việt nam (22.12.1944-22.12.2019)",
+    "author": "Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0911",
+    "title": "Đấu tranh chống phi chính trị hóa quân đội trong tình hình mới",
+    "author": "Cục tuyên huấn- Tổng cục chính trị VIện KHXHNVQS-BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S0912",
+    "title": "Hỏi-đáp về phòng chống tự diễn biến tự chuyển hóa ở nước ta hiện nay",
+    "author": "Cục tuyên huấn- Tổng cục chính trị VIện KHXHNVQS-BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S0913",
+    "title": "Tài liệu hóc tập các văn kiện đại hội đại biểu toàn quốc lần thứ XIII của đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0914",
+    "title": "Tài liệu học tập và làm theo tưu tưởng đạo đức phong cách hồ chí minh năm 2024",
+    "author": "Tổng cục CTQDNDVN-Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0915",
+    "title": "Tài liệu hỏi đáp về các văn kiên đại hội đại biểu toàn quốc lần thứ XII của đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0916",
+    "title": "Tài liệu nghiên cứu các văn kiện hội nghị lần thứ 8 ban chấp hành trung ưởng đảng lần thứ XII",
+    "author": "Ban tuyên giáo TW đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0917",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ VII ban chấp hành TW đảng lần thứ XII",
+    "author": "Ban tuyên giáo TW đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0918",
+    "title": "Tài liệu nghiên cứu các văn kiện đại hội đại biểu toàn quốc lần thứ XII của đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0919",
+    "title": "Tài liệu bồi dưỡng lý luận chính trị dành cho đảng viên mới",
+    "author": "TCCTQDNDVN-Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0920",
+    "title": "Tài liệu nghiên cứu các văn kiện đại hội đại biểu toàn quốc lần thứ XI của đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0921",
+    "title": "Tài liệu nghiên cứu các nghị quyết hội nghị lần thứ 5 BCHTW đảng khóa IX",
+    "author": "Ban tư tưởng văn hóa TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0922",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan năm 2025",
+    "author": "TCCTQDNDVN-Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0923",
+    "title": "Tài liệu tuyên truyền kỉ niệm 70 năm ngày Cách mạng tháng 8 (19.8.1945-19.8.2015) và quốc khánh nước cộng hòa xã hội chủ nghĩa việt nam (2.9.1945-2.9.2015)",
+    "author": "QQDNDVN-Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0924",
+    "title": "Tài liệu nghiên cứu các văn kiện hội nghị lần thứ 8 ban chấp hành trung ưởng đảng lần thứ XIII",
+    "author": "Ban tuyên giáo TW đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0925",
+    "title": "Tài liệu nghiên cứu các nghị quyết hội nghị lần thứ 6 BCHTW đảng khóa XI",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0926",
+    "title": "Tài liệu một số quy định hướng dẫn về tổ chức đảng tổ chức cơ quan chính trị trong QDNDVN",
+    "author": "QDNDVN- Tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0927",
+    "title": "Quy định về những điều đẳng viên không được làm",
+    "author": "ĐCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0928",
+    "title": "Điều lệ ĐCSVN",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S0929",
+    "title": "Thực hiện chuẩn mực đạo đức cách mạng của cán bộ, đảng viên trong gia đoạn mới",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0930",
+    "title": "Tài liệu hỏi đáp những nội dung cốt lõi trong tác phẩm \" kiên quyết ,kiên trì đấu tranh phòng chống tham nhũng,tiêu cực,góp phần xây dựng đảng và nhà nước ta ngày càng trong sạch ,vững mạnh\"của tổng bí thư Nuyễn Phú Trọng",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0931",
+    "title": "Hỏi đáp về bình đẳng giới",
+    "author": "Ban vì sự tiến bộ của phụ nữ BQP cơ quan thường trực",
+    "borrowed": false
+  },
+  {
+    "code": "S0932",
+    "title": "Xây dựng ý thức tôn trong nhân dân phát huy dân chủ,chăm lo đời sống nhân dân theo tư tưởng đạo đức phong cách HCM",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0933",
+    "title": "Học tập và làm theo tư tưởng đạo đức phong cách HCM về phòng ,chống suy thoái tư tưởng chính trị ,đạo đức,lối sống \"tự diến biến tự chuyển hoá\" trong nội bộ",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0934",
+    "title": "Xây dựng phong cách, tác phong công tác của người đứng đầu của của cán bộ đảng viên trong học tập và làm theo tư tưởng đạo đức phong cách HCM",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0935",
+    "title": "Cuộc vận động quản lý, khai thác VKTBKT tốt bền an toàn tiết kiệm",
+    "author": "BQP tổng cục kỹ thuật",
+    "borrowed": false
+  },
+  {
+    "code": "S0936",
+    "title": "Sổ tay phòng chống dịch covid-19",
+    "author": "BQP ban chỉ đạo phòng chống dịch covid-19",
+    "borrowed": false
+  },
+  {
+    "code": "S0937",
+    "title": "Tài liệu tuyên truyền kỷ niệm 70 năm ngày truyền thống CANNVN(19/8/1945-19/8/2015) và 10 năm ngày hội toàn dân bảo vệ an ninh tổ quốc (19/8/2005-19/8/2015)",
+    "author": "BCA-BTGT Ư",
+    "borrowed": false
+  },
+  {
+    "code": "S0938",
+    "title": "Báo cáo tổng kết 20 năm thực hiện cương lĩnh xây dựng đất nước trong thời kỳ qoá độ lên CNXH(1991-2011)",
+    "author": "Ban chấp hành trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0939",
+    "title": "Việt Nam -WTO nhưng cam kết liên quan đến nông dân nông nghiệp nông thôn và doanh nghiệp",
+    "author": "ban tư tưởng văn hoá trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0940",
+    "title": "Quyết tâm cao biện pháp quyết liệt nhằm tạo chuyển biến mới về xây dựng Đảng",
+    "author": "NGuyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0941",
+    "title": "Xây dựng chỉnh đốn đảng là nhiệm vụ then chốt để phát triển đất nước",
+    "author": "NGuyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0942",
+    "title": "Tư tưởng tâm gương đạo đức Hồ Chí Minh về nâng cao ý thức trách nhiệm hết lòng hết sức phụng sự tổ quốc ,phục vụ nhân dân",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0943",
+    "title": "Văn kiện đại hội đại biểu đoàn TNCS Hồ Chí Minh HVKTQS lần thứ IX(2022-2027)",
+    "author": "HVKTQS phòng chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0944",
+    "title": "Kiên định lý tưởng cách mạng rèn đức luyện tài xung lích sáng tạo xứng danh\"bộ đội cụ hồ\" hoàn thành xuất sắc nhiệm vụ giảng dạy, học tập rèn luyện và nghiên cứu khoa học",
+    "author": "HVKTQS phòng chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0945",
+    "title": "Nhũng bài giảng về môn học tư tưởng HCM",
+    "author": "Nguyễn Khánh Bật",
+    "borrowed": false
+  },
+  {
+    "code": "S0946",
+    "title": "đề cương tuyên truyền kỷ niệm 70 năm ngày truyền thống cục dân vận",
+    "author": "TCCT QDNDVN cục dân vận",
+    "borrowed": false
+  },
+  {
+    "code": "S0947",
+    "title": "Tài liệu nghiê cứu kết luận hội nghị lần thứ mười ban cháp hành trung ương đảng khoá IX",
+    "author": "ban tư tưởng văn hoá trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0948",
+    "title": "Tài liệu hỏi đáp nhghị quyết hội nghị lần thứ 6 ban chấp hành trung ương DCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0949",
+    "title": "Tài liệu hỏi đáp về các nghị quyết hội nghị trung ương 5 khoá X",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0950",
+    "title": "Tài liệu hỏi đáp về nghị quyết hội nghị lần thứ 9 ban chấp hành trung ương đảng khoá IX",
+    "author": "Ban tư tưởng văn hoá trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0951",
+    "title": "Tài liệu hỏi đáp về các nghị quyết hội nghị trung ương 6 khoá X",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0952",
+    "title": "Tài liệu hỏi đáp NGhị quyết hội nghị lần thứ bảy ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0953",
+    "title": "Tài liệu hỏi đáp NGhị quyết hội nghị lần thứ 5 ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0954",
+    "title": "Tài liệu nghiên cứu Các văn kiện hội nghị lần thứ 5 BCHTƯĐ khoá XIIIB",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0955",
+    "title": "Tài liệu Học tập Các văn kiện đại hội đại biểu toàn quốc lần thứ XI của đảng",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0956",
+    "title": "Tài liệu học tập NGhị quyết hội nghị lần thứ 5 ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0957",
+    "title": "Tài liệu nâng cao chất lương công tác tư tưởng trong QDNDVN hiện nay",
+    "author": "TCCT QDNDVN cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0958",
+    "title": "Tài liệu bồi dưỡng lý luận chính trị dành cho học viên lớp đối tượng kết nạp đảng",
+    "author": "TCCT QDNDVN cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0959",
+    "title": "Tài liệu Nghiên cứu học tập quán triệt nghị quyết đại hội đại biểu đảng bộ quân đội lần thứ X nhiệm kỳ 2015-2020",
+    "author": "QDNDVN tổng cục chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S0960",
+    "title": "Tài liệu học tập các nghịe quyết hội nghị trung ương 6 khoá X",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0961",
+    "title": "Tài liệu hỏi đáp NGhị quyết hội nghị lần thứ 4 ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0962",
+    "title": "Tài liệu hỏi đáp về nghị quyết và các van bản kết luận của hội nghị trung ương 9, khoá X",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0963",
+    "title": "Tài liệu hỏi đáp Nghị quyết hội nghị lần thứ 8 ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0964",
+    "title": "Tài liệu hỏi đáp NGhị quyết hội nghị lần thứ 7 ban chấp hành trung ương ĐCSVN khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0965",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ 8 ban chấp hành trung ương đảng khoá XII",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0966",
+    "title": "Tài liệu nghiên cứu Kết lần hội nghị lần thứ ba ban chấp hành trung ương đảng khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0967",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ 8 ban chấp hành trung ương đảng khoá XIII",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0968",
+    "title": "Tài liệu hỏi đáp về các văn kiện đại hội đại biểu toàn quốc lần thứ Xii của Đảng",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0969",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ 8 ban chấp hành trung ương đảng khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0970",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ 4 ban chấp hành trung ương đảng khoá XIII",
+    "author": "BTGTƯĐ",
+    "borrowed": false
+  },
+  {
+    "code": "S0971",
+    "title": "Tài liệu học tập kết luân hội nghị lần thứ 3 ban chấp hành trung ương đảng khoá XI",
+    "author": "BTGTƯ",
+    "borrowed": false
+  },
+  {
+    "code": "S0972",
+    "title": "Tài liệu học tập các nghị quyết hội nghị lần thứ 7 ban chấp hành trung ương đảng khoá X",
+    "author": "BTGT Ư",
+    "borrowed": false
+  },
+  {
+    "code": "S0973",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ 6 ban chấp hành trung ương ĐCSVN khoá XIII",
+    "author": "BTGT Ư",
+    "borrowed": false
+  },
+  {
+    "code": "S0974",
+    "title": "Hỏi và đáp về các kết luận của hôin nghị lần thứ 6 ban chuâps hành trung ương đảng khoá IX",
+    "author": "Ban tư tưởng văn hoá trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0975",
+    "title": "Diều lệ ĐCSVN và quy định thi hành điều lệ đảng",
+    "author": "ĐCSVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0976",
+    "title": "Chuẩn bị thật tốt đại hội đảng bộ các cấp tiến tối đại hội đại biểu toàn quốc lần thứ XIII của Đảng",
+    "author": "NGuyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S0977",
+    "title": "Bảo vệ vầ phát triển nền tảng tư tưởng của đảng trong tình hình mới",
+    "author": "cục tuyên huấn cục chính trị QĐNDVN",
+    "borrowed": false
+  },
+  {
+    "code": "S0978",
+    "title": "Chuẩn bị thật tốt đại hội đảng bộ các cấp tiến tới đại hội đại biểu toàn quốc lần thứ XIII của đảng",
+    "author": "NGUYỄN PHÚ TRỌNG",
+    "borrowed": false
+  },
+  {
+    "code": "S0979",
+    "title": "Tài liệu tham khảo phục vụ nghiên cứu nghị quyết đại hội đại biểu toàn quốc lần thứ IX của Đảng",
+    "author": "Ban Tư tưởng - Văn hoá trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0980",
+    "title": "Tài liệu hỏi - đáp về các văn kiện hội nghị lần thứ VI Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên Giáo Trung Ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0981",
+    "title": "Tài liệu nghiên cứu các văn kiện hội nghị lần thứ 8 Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên Giáo Trung Ương Đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0982",
+    "title": "Tài liệu nghiên cứu các nghị quyết hội nghị trung ương 5 khoá X",
+    "author": "Ban Tuyên Giáo Trung Ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0983",
+    "title": "Tài liệu hỏi - đáp các văn kiện hội nghị lần thứ 5 Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên Giáo Trung Ương Đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0984",
+    "title": "Tài liệu bồi dưỡng lý luận chính trị dành cho học viên lớp đối tượng kết nạp Đảng",
+    "author": "Ban Tuyên Giáo Trung Ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0985",
+    "title": "Tài liệu học tập lý luận chính trị dành cho học viên lớp đối tượng đảng",
+    "author": "Ban Tuyên Giáo Trung Ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0986",
+    "title": "Tài liệu nghiên cứu các văn kiện hội nghị lần thứ 5 Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên Giáo Trung Ương Đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S0987",
+    "title": "Báo cáo tổng kết 20 năm thực hiện cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH (1991-2011)",
+    "author": "Đảng Cộng sản Việt Nam- Ban Chấp hành trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0988",
+    "title": "Báo cáo tổng kết một số vấn đề lý luận - thực tiễn qua 30 năm đổi mới (1986-2016)",
+    "author": "Đảng Cộng sản Việt Nam- Ban Chấp hành trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S0989",
+    "title": "Tài liệu học tập các văn kiện đại hội đại biểu toàn quốc lần thứ XII của Đảng",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0990",
+    "title": "Tài liệu tham khảo phục vụ nghiên cứu các văn kiện đại hội đại biểu toàn quốc lần thứ XII của Đảng",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0991",
+    "title": "Tài liêuj nghiên cứu các văn kiện hội nghị lần thứ VI Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S0992",
+    "title": "Các bài học lý luận chính trị dành cho đoàn viên",
+    "author": "trung ương đoàn thanh niên cộng sản Hồ Chí Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S0993",
+    "title": "Đấu tranh phòng, chống \" diễn biên hoà bình\" ở nước ta hiện nay",
+    "author": "PGS.TS.Nguyễn Viết Thông",
+    "borrowed": false
+  },
+  {
+    "code": "S0994",
+    "title": "Ngăn chăn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện \"tự diện biến\",\"tự chuyển hoá\" trong cán bộ, Đảng viên",
+    "author": "TS.Nguyễn Huy Tiến",
+    "borrowed": false
+  },
+  {
+    "code": "S0995",
+    "title": "Văn hoá đối ngoại Việt Nam trong quá tình hội nhập quốc tế",
+    "author": "PGS.TS. Vũ Trọng Lâm",
+    "borrowed": false
+  },
+  {
+    "code": "S0996",
+    "title": "Biến đổi cơ cấu xã hội - giai cấp của nông dân đồng bằng sông Hồng thời kỳ đẩy mạnh CNH-HĐH",
+    "author": "Đại tá, TS. Nguyễn Hồng Sơn",
+    "borrowed": false
+  },
+  {
+    "code": "S0997",
+    "title": "Mạng lưới xã hội của nhóm sĩ quan cấp uý Quân đội Nhân dân Việt Nam những vấn đề lý luận, thực trạng và giải pháp quản lý",
+    "author": "Thượng tá, TS. Đào Ngọc Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S0998",
+    "title": "Đại hội đại biểu phụ nữ quân đoàn 1 lần thứ V ( 2016-2021)",
+    "author": "LHPN Việt Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S0999",
+    "title": "Tài liệu hướng dẫn tiến hành đại hội đảng các cấp trong đảng bộ quân đội tiến tới đại hội đại biểu toàn quốc lần thứ 14 của Đảng",
+    "author": "Tổng cục Chính trị QDNDVN- Cục tổ chức",
+    "borrowed": false
+  },
+  {
+    "code": "S1000",
+    "title": "Tài liệu nhận diện một số tổ chức, hội, nhóm, nhân vật chống phá đảo, nhà nước, quân đội ta",
+    "author": "Quân uỷ tw- Ban chỉ đạo 94",
+    "borrowed": false
+  },
+  {
+    "code": "S1001",
+    "title": "Hướng dẫn tiến hành đại hội đảng các cấp trong đảng bộ quân đội tiến tới đại hội đại biểu toàn quốc lần thứ XI của đảng",
+    "author": "Tổng cục Chính trị - Cục tổ chức",
+    "borrowed": false
+  },
+  {
+    "code": "S1002",
+    "title": "Tổng kết một số vấn đề lý luận - thực tiễn qua 20 năm thực cương lĩnh năm 1991 của BQP (1991-2011)",
+    "author": "Đảng uỷ quân sự tw- Ban chỉ đạo",
+    "borrowed": false
+  },
+  {
+    "code": "S1003",
+    "title": "Nâng câo chất lượng đội ngũ chính trị vĩ trong các trường kỹ thuật quân sự",
+    "author": "QDNDVN- Tổng cục Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1004",
+    "title": "Tăng cường mối quan hệ giữa đảng và nhân dân trong thời kỳ mới",
+    "author": "Ban dân vận trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S1005",
+    "title": "Tài liệu một số quy định, hướng dẫn về tổ chức Đảng, tổ chức cơ quan chính trị trong QDNDVN",
+    "author": "QDNDVN - tổng cục Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1006",
+    "title": "Tài liệu chuyển trạng thái sẵn sàng chiến đấu tịa HVKTQS",
+    "author": "Học viện Kỹ thuật Quân sự",
+    "borrowed": false
+  },
+  {
+    "code": "S1007",
+    "title": "Nâng cao năng lực chủ trì về chính trị của chính trị viên đại đội trong QDNDVN",
+    "author": "Trường Sĩ quan Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1008",
+    "title": "Mốt số vẫn đề đổi mới về lý luận trong văn kiện đại hội lần thứ XIII của đảng",
+    "author": "BQP-Học viện Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1009",
+    "title": "Một số văn kiện xây dựng đảng về tổ chức, cán bộ và đản viên",
+    "author": "Đảng Cộng sản Việt Nam- Ban Tổ chức trung ương Đảng",
+    "borrowed": false
+  },
+  {
+    "code": "S1010",
+    "title": "Quân đội nhân dân Việt Nam trong thực hiện chiến lược đại đoàn kết toàn dân tộc của Đảng, nhà nước hiện nay",
+    "author": "TS. Phạm Văn Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1011",
+    "title": "Đấu tranh bảo vệ nền tảng tư tưởng của Đảng trong thời kỳ mới",
+    "author": "Ths.Mai Yến Nga",
+    "borrowed": false
+  },
+  {
+    "code": "S1012",
+    "title": "Một số trận đánh trong kháng chiến chống Mỹ, cứu nước (1954-1975) tập 4",
+    "author": "Đại tá, TS. Nguyễn Văn Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S1013",
+    "title": "Sổ tay báo cáo viên 2023",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1014",
+    "title": "Những điểm mới trong văn kiện đại hội đại biểu toàn quốc lần thứ XII của đảng",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1015",
+    "title": "Báo cáo 10 năm thực hiễn cương lĩnh 2011",
+    "author": "Đảng Cộng sản Việt Nam- Ban Chấp hành trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S1016",
+    "title": "Đề cương phổ biến, giáo dục về pháp lệnh xử lý vi phạm hành chính",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S1017",
+    "title": "Tổ chức sự lãnh đạo của đảng trong QDNDVN",
+    "author": "QDNDVN- Tổng cục Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1018",
+    "title": "Chuẩn bị thật tốt đại hội đảng bộ các cấp tiến tới đại hội đại biểu toàn quốc lần thứ XIII của Đảng",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S1019",
+    "title": "Những nội dung cơ bản Nghị quyết đại hội đoàn toàn quốc lần thứ IX",
+    "author": "TW ĐTNCS Hồ Chí Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S1020",
+    "title": "Công tác đảng, công tác chính trị tập 3",
+    "author": "QDNDVN- Tổng cục Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1021",
+    "title": "Nghị quyết đại hội đảng X và hành động của tuổi trẻ",
+    "author": "TW ĐTNCS Hồ Chí Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S1022",
+    "title": "Công tác phục vụ đại hội đảng các uỷ ban kiểm tra các cấp",
+    "author": "Đảng Cộng sản Việt Nam",
+    "borrowed": false
+  },
+  {
+    "code": "S1023",
+    "title": "Tài liệu học tập các văn kiện hội nghị lần thứ sáu ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1024",
+    "title": "Xây dựng chỉnh đốn đảng là nhiệm vụ then chốt để bảo vệ đất nước",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S1025",
+    "title": "Hỏi và đáp về cấc kết luận của hội nghĩ lần thứ sáu ban chấp hành trung ương Đảng khoá IX",
+    "author": "Ban Tư tưởng - Văn hoá trung ương, Ban Khoa giáo trung ương, Ban tổ chức trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S1026",
+    "title": "Tài liệu nghiên cứu nghị quyết hội nghị lần thứ tám ban chấp hành trung ương Đảng Cộng sản Việt Nam khoá XI",
+    "author": "Ban Tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1027",
+    "title": "Tài liệu nghiên cứu, học tập, quán triệt nghị quyết đại hội đại biểu đảng bộ quân đội lần thứ XI, nhiệm kỳ 2020-2025",
+    "author": "QDNDVN- Tổng cục Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1028",
+    "title": "Tài liệu hỏi - đáp các văn kiện hội nghị lần thứ 5 Ban chấp hành trung ương đảng khoá XI",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1029",
+    "title": "Tài liệu hỏi - đáp các văn kiện hội nghị lần thứ sáu Ban chấp hành trung ương đảng khoá XI",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1030",
+    "title": "Tài liệu hỏi - đáp các nghị quyết hội nghĩ trung ương bảy, khoá X",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1031",
+    "title": "Tài liệu hỏi - đáp các văn kiện đại hội đại biểu toàn quốc lấn thứ XII của Đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1032",
+    "title": "Tài liệu hỏi - đáp các văn kiện hội nghị lần thứ 6 Ban chấp hành trung ương đảng khoá XII",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1033",
+    "title": "Tài liệu học tập các nghị quyết hội nghị TW 5, khoá X",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1034",
+    "title": "Tài liệu học tập nghị quyết hội nghị lần thứ bảy ban chấp hành tw Đảng Cộng sản Việt Nam Khoá XI",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1035",
+    "title": "Tài liệu học tập nghị quyết hội nghị lần thứ tư ban chấp hành tw Đảng Cộng sản Việt Nam Khoá XI",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1036",
+    "title": "Tài liện học tập các văn kiện hội nghị lần thứ năm ban chấp hành trung ương đảng khoá XIII",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1037",
+    "title": "Công tác kiểm tra, giám sát và kỷ luật của Đảng trong Đảng bộ quân đội",
+    "author": "Đảng uỷ quân sự TW- Uỷ ban kiểm tra",
+    "borrowed": false
+  },
+  {
+    "code": "S1038",
+    "title": "Tài liệu hỏi đáp PL",
+    "author": "BQP Ban chỉ đạo đề án 1371",
+    "borrowed": false
+  },
+  {
+    "code": "S1039",
+    "title": "Tập văn bản QPPL về phòng thủ dân sự ứng phó thảm hoạ tìm kiếm cứu nạn",
+    "author": "BTTM Cục Cứu Hộ Cứu Nạn",
+    "borrowed": false
+  },
+  {
+    "code": "S1040",
+    "title": "Xây dựng nhà trường thông minh trong quân đội tiếp cận cách mạng công nghệ 4.0",
+    "author": "BTTM Cục nhà trường",
+    "borrowed": false
+  },
+  {
+    "code": "S1041",
+    "title": "Danh mục văn bản QPPL hiện hành do Bộ trưởng BQP ban hành và liên tịch ban hành đến 10/10/2010",
+    "author": "Bộ Quốc Phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S1042",
+    "title": "Tài liệu về thi đua khen thưởng trong QĐNDVN",
+    "author": "Tổng cục chính trị, cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1043",
+    "title": "Quốc phòng Việt Nam 2019",
+    "author": "Bộ quốc phòng",
+    "borrowed": false
+  },
+  {
+    "code": "S1044",
+    "title": "Nâng cao chất lượng công tác tuyên truyền, cổ động ở đơn vị cơ sở trong quân đội hiện nay",
+    "author": "TS. Vũ Minh Thực",
+    "borrowed": false
+  },
+  {
+    "code": "S1045",
+    "title": "Nâng cao chất lượng hoạt động tổ chức đoàn ở đơn vị học viên trong nhà trường quân đội hiện nay",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1046",
+    "title": "Tiêu chuẩn chức danh nhân viên chuyên môn kỹ thuật, nghiệp vụ",
+    "author": "HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S1047",
+    "title": "Nâng cao chất lượng tiến hành công tác đảng, công tác chính trị của cán bộ chính trị cấp phân đội hiện nay",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1048",
+    "title": "Góp phần phòng chống \"phi chính trị hóa \" quân đội",
+    "author": "Viện KHXH nhân văn quân sự",
+    "borrowed": false
+  },
+  {
+    "code": "S1049",
+    "title": "Phòng, chống \" diễn biến hòa bình\" trong lĩnh vực văn học, nghệ thuật",
+    "author": "Cục tuyên huấn- Tạp chí văn nghệ quân đội",
+    "borrowed": false
+  },
+  {
+    "code": "S1050",
+    "title": "Đẩy mạnh đấu tranh chông DBHB trên lĩnh vực tư tưởng văn hóa",
+    "author": "Cục tuyên huấn- Báo QĐND",
+    "borrowed": false
+  },
+  {
+    "code": "S1051",
+    "title": "Nâng cao hiệu quả quản lí di tích lịch sử cách mạng ATK ở cách tỉnh Tuyên Quang , Thái Nguyên, Bắc Kạn",
+    "author": "TS. Hà Thúy Mai",
+    "borrowed": false
+  },
+  {
+    "code": "S1052",
+    "title": "Nâng cao bản lĩnh chính trị của đội ngũ trung đội trưởng thông tin trong quân đội hiện nay",
+    "author": "Đại tá, TS. Hà Sĩ Chiến",
+    "borrowed": false
+  },
+  {
+    "code": "S1053",
+    "title": "Vai trò lãnh đạo của Đảng và thành quá cách mạng là không thể phũ nhận",
+    "author": "Nhà báo Phung KIm Lân",
+    "borrowed": false
+  },
+  {
+    "code": "S1054",
+    "title": "Các tội xâm phạm nghĩa vụ, trách nhiệm của quân nhân theo quy định của bộ luật hình sự 2015",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1055",
+    "title": "Các bài học lí luận chính trị cho đoàn viên",
+    "author": "TWDTNCSHCM",
+    "borrowed": false
+  },
+  {
+    "code": "S1056",
+    "title": "Quân đội nhân dân học tập và làm theo đạo đức, phong cách Hồ Chí Minh",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S1057",
+    "title": "Xây dựng phong cách làm việc Hồ Chính Minh cho đội ngũ sĩ quan trẻ trong quân đội hiện nay",
+    "author": "ThS. Phùng Thanh, ThS. Vũ Văn Tám",
+    "borrowed": false
+  },
+  {
+    "code": "S1058",
+    "title": "Phát triển hệ giá trị văn hóa của thanh niên QĐNDVN trong thời kì mới",
+    "author": "TS. Vũ Văn Bách",
+    "borrowed": false
+  },
+  {
+    "code": "S1059",
+    "title": "Xây dựng đội ngũ cán bộ cơ quan chính trị ở các học viện, trường sĩ quan trong quân đội hiện nay",
+    "author": "TS. Phạm Trung Thành",
+    "borrowed": false
+  },
+  {
+    "code": "S1060",
+    "title": "Định hường giá trị văn hóa của học viên đào tạo sĩ quan trong các trường quân đội",
+    "author": "TS. Nguyên Vương Bình",
+    "borrowed": false
+  },
+  {
+    "code": "S1061",
+    "title": "Năng lực thuyết phục của chính trị viên trong QĐNDVN",
+    "author": "TS. Nguyễn Văn Kiên",
+    "borrowed": false
+  },
+  {
+    "code": "S1062",
+    "title": "Công tác binh vận của Đảng trong kháng chiến chống Mỹ cứu nước, vận dụng trong xây dựng quân đội hiện nay",
+    "author": "TS. Nguyễn Khắc Trai",
+    "borrowed": false
+  },
+  {
+    "code": "S1063",
+    "title": "Bồi dưỡng phẩm chất năng lực và phương pháp tác phong trong công tác cho đội ngũ báo cáo viên ở đơn vị cơ sở quân đội hiện nay",
+    "author": "TS. Khúc Văn Hưởng",
+    "borrowed": false
+  },
+  {
+    "code": "S1064",
+    "title": "Tư tưởng Hồ Chí Minh về sức mạnh chiến đấu của QĐNDVN",
+    "author": "PGS, TS. Nguyễn Hữu Lộc",
+    "borrowed": false
+  },
+  {
+    "code": "S1065",
+    "title": "Bộ đội biên phòng vận động người có uy tín trong đồng bào dân tộc thiểu số tham gia bảo vệ chủ quyền an ninh ở khu vực biên giới",
+    "author": "TS. Đinh Vũ Thủy",
+    "borrowed": false
+  },
+  {
+    "code": "S1066",
+    "title": "Vận dụng quan hệ tộc người xuyên quốc gia trong bảo vệ chủ quyền, an ninh biên giới của bộ đội biên phòng hiện nay",
+    "author": "ThS. Ngô Thị Phương Thảo",
+    "borrowed": false
+  },
+  {
+    "code": "S1067",
+    "title": "Bộ đội biên phòng vận động ngư dân tham gia quản lý bảo vệ chủ quyền an ninh biên giới quốc gia trên biển",
+    "author": "TS. Vũ Hồng Khanh",
+    "borrowed": false
+  },
+  {
+    "code": "S1068",
+    "title": "Nâng cao chất lượng giáo dục kỷ luật cho hạ sĩ quan, binh sĩ ở đơn vị cơ sở QDNDVN hiện nay",
+    "author": "Trung tá, TS. Đỗ Hồng Khoảng",
+    "borrowed": false
+  },
+  {
+    "code": "S1069",
+    "title": "Chăm lo bồi đắp phát triển kiểu mẫu nhân cách bộ đội cụ Hồ",
+    "author": "GS, TS. Đinh Xuân Dũng",
+    "borrowed": false
+  },
+  {
+    "code": "S1070",
+    "title": "Đổi mới giáo dục lí luận chính trị cho học viên sĩ quan kỹ thuật quân sự hiện nay theo tư tưởng Hồ Chí Minh",
+    "author": "TS. Vũ Tuấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1071",
+    "title": "Tài liệu bồi dưỡng lí luận chính trị dành cho Đảng viên mới",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1072",
+    "title": "Hỏi đáp về phòng chống tự diễn biến, tự chuyển hóa ở nước ta hiện nay",
+    "author": "Viện KHXH nhân văn quân sự- BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S1073",
+    "title": "Tổ chức sự lãnh đạo của Đảng trong QDNDVN",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1074",
+    "title": "Hướng dẫn một số nội dung nghiệp vụ quản lý Đảng viên trong đảng bộ quân đội",
+    "author": "Cục tổ chức",
+    "borrowed": false
+  },
+  {
+    "code": "S1075",
+    "title": "Tài liệu tuyên truyền kỷ niệm 75 năm thành lập QDNDVN (22/12/1944-22/12/2014) 25 năm ngày hội quốc phòng toàn dân (22/12/1989-22/12/2014)",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1076",
+    "title": "Tài liệu tuyên truyển kỷ niệm 40 năm ngày giải phóng hoàn toàn miền nam thống nhất đất nước (30/4/1975- 30/4/2025)",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1077",
+    "title": "100 tình huống tư tưởng có thể nảy sinh ở đơn vị và gợi ý biện pháp xử lý của cán bộ cơ sơ tập 2",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1078",
+    "title": "Đề cương tuyên truyền kỷ niệm 70 năm ngày truyền thống Cục tuyên huấn (11/5/1946- 11/5/2016)",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1079",
+    "title": "Tài liệu nghiên cứu chuyên đề sĩ quan 2020",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1080",
+    "title": "Tài liệu học tập và làm theo tư tưởng đạo đức, phong cách Hồ Chính MInh 2025",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1081",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quân tại đơn vị và học tập làm theo tấm gương đạo đức Hồ Chính Minh",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1082",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2019",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1083",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2017",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1084",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2025",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1085",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2024",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1086",
+    "title": "Sổ tay chính trị viên đại đội",
+    "author": "Trường sĩ quân chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1087",
+    "title": "Tài liệu học tập và làm theo tư tưởng đạo đức, phong cách Hồ Chính MInh 2024",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1088",
+    "title": "Tài liệu quán triệt tư tưởng chỉ đạo trong cuốn sách \" kiên quyết , kiên trì đấu tranh phòng chống tham nhũng, tiêu cực, góp phần xấy dựng nhà nước ta ngày càng trong sạch vững mạnh của đồng chí TBT. Nguyễn Phú Trọng cho cán bộ chiến sĩ trong QDNDVN hiện nay",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1089",
+    "title": "Chuyên đề phát huy phẩm chất \" Bộ Đội Cụ Hồ\" kiến quyết chống chủ nghĩa cá nhân",
+    "author": "Quân ủy trung ương",
+    "borrowed": false
+  },
+  {
+    "code": "S1090",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2021",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1091",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan 2018",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1092",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan tại đơn vị học tập làm theo tấm gương đạo đức Hồ Chí Minh 2015",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1093",
+    "title": "Tài liệu nghiên cứu chuyên đề của sĩ quan tại đơn vị học tập làm theo tấm gương đạo đức Hồ Chí Minh 2011",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1094",
+    "title": "Tài liệu học tập chính trị của sĩ quan tại đơn vị và cuộc vân động\" Học tập và làm theo tấm gương đạo đức Hồ Chí MInh\" 2009",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1095",
+    "title": "Phấn đấu xứng danh Bộ đội cụ Hồ chuyên đề 5: Nâng cao tinh thần đoàn kết nội bộ, đoàn kết quân dân, đoàn kết quốc tế, xứng danh bộ đội cụ Hồ trong thời kì mới",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1096",
+    "title": "Quy định chức trách nhiệm vụ, mối quan hệ công tác của chính ủy, chính trị viên, chủ nhiệm chính trị; chức năng nhiệm vụ mối quan hệ công tác của cơ quan chính trị các cấp QDNDVN tập 3 cấp cơ sở",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1097",
+    "title": "Tài liệu học tập chính trị của sĩ quan tại đơn vị 2008",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1098",
+    "title": "Tài liệu học tập chính trị của QNCN",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1099",
+    "title": "Chuyên đề xây dựng tình đồng chí đồng đội trong QDNDVN theo tư tưởng đạo đức phong cách Hồ Chí Minh",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1100",
+    "title": "Đề cương giới thiệu nội dung cơ bản của luật quốc phòng",
+    "author": "Giáo dục pháp luật",
+    "borrowed": false
+  },
+  {
+    "code": "S1101",
+    "title": "Thông tư quy định việc áp dụng các hình thức kỷ luật, trình tự thủ tục, thời hiệu, thời hạn và thẩm quyển xử lý kỉ luâtj trong BQP",
+    "author": "BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S1102",
+    "title": "Tài liệu tham khảo phòng, chống dịch COVID 19",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S1103",
+    "title": "Dấu hiệu nhận biết cách nhóm hành vi vi phạm kỉ luật, mất an toàn, tâm lý bất thường và gợi ý biện pháp xử lý của cán bộ cơ sở đối với những tình hố tư tưởng có thể nảy sinh",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1104",
+    "title": "Hỏi và đáp về phòng chống phi chính trị hóa quân đội",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1105",
+    "title": "Tài liệu tuyên truyền, phổ biến nội dung công ước của LHQ về chống tra tấn và các hình thức đối xử, hoặc trừng phạt tàn bạo, vô nhân đạo, hạ nhục con người, pháp luật việt nam có liên quan đến chống tra tấn và quyền con người trong quân đội",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1106",
+    "title": "100 tình huống tư tưởng có thể nảy sinh ở đơn vị và gợi ý biện pháp xử lý của cán bộ cơ sơ",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1107",
+    "title": "Tài liệu tham khỏa về đấu tranh phòng, chống \" Diễn biến hòa bình' trên lĩnh vực tư tưởng văn hóa",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1108",
+    "title": "Hướng dẫn về giới thiệu sinh hoạt Đảng, quản lý hồ sơ làm thẻ Đảng viên trong Đảng bộ quân đội",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1109",
+    "title": "Đổi mới công tác quản lý tư tưởng đới với đội ngũ cán bộ quân đội trong tình hình mới",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1110",
+    "title": "Điều lệ công tác bảo vệ môi trường và ứng phó với biến đổi khí hậu của QDNDVN",
+    "author": "BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S1111",
+    "title": "Tài liệu bồi dường nhận thức về Đảng dành có đối tượng kết nạp Đảng",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1112",
+    "title": "Tài liệu hỏi đáp các văn kiện đại hội đại biểu toàn quốc lần thứ XI của Đảng",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1113",
+    "title": "Tài liệu tuyên truyền kỷ niệm 65 năm thành lập QDNDVN (22/12/1944-22/12/2009) 20 năm ngày hội quốc phòng toàn dân (22/12/1989-22/12/2009)",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1114",
+    "title": "Tài liệu huấn luyện kỹ thuật đánh gần",
+    "author": "Cục quân huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1115",
+    "title": "Đề cương tuyên truyền phổ biến luật QP 2018",
+    "author": "BQP",
+    "borrowed": false
+  },
+  {
+    "code": "S1116",
+    "title": "Chuẩn đoán và điều trị COVID 19",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S1117",
+    "title": "Sổ tay bí thư Đảng ủy tiểu đoàn",
+    "author": "Trường sĩ quân chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1118",
+    "title": "Tài liệu học tập chính trị của hạ sĩ quan, binh sĩ",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1119",
+    "title": "Tài liệu bổ trợ học tập chính trị",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1120",
+    "title": "Tài liệu tuyên truyền kỉ niêm 80 năm CMT8 thành công ( 19/8/1945- 19/8/2025) và quốc khánh nước CHXHCNVN(02/9/1945- 02/9/2025)",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1121",
+    "title": "Tổ quốc từ ngọn sóng Trường Sa",
+    "author": "Nguyễn Thị Thanh Vĩnh",
+    "borrowed": false
+  },
+  {
+    "code": "S1122",
+    "title": "Sơ kết 5 năm công tác giáo dục chính trị tại đơn vị (2006- 2010)",
+    "author": "Cục tuyên huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1123",
+    "title": "Dân tộc học",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1124",
+    "title": "Tổ chức tập luyện thể dục sáng, thể thao chiều",
+    "author": "Cục quân huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1125",
+    "title": "Hướng dẫn 1 số nội dung nghiệp vụ quản lí Đảng viên trong Đảng bộ quân đội",
+    "author": "Cục tổ chức",
+    "borrowed": false
+  },
+  {
+    "code": "S1126",
+    "title": "Quy định thẩm quyền thi hành kỷ luật về Đảng, kỷ luật quân đội của cấp ủy và ủy ban kiểm tra các cấp trong quân đội",
+    "author": "Ủy ban kiểm tra",
+    "borrowed": false
+  },
+  {
+    "code": "S1127",
+    "title": "Công tác kiếm tra, giám sát của tổ chức cơ sở Đảng trong Đảng bộ quân đội",
+    "author": "Ủy ban kiểm tra",
+    "borrowed": false
+  },
+  {
+    "code": "S1128",
+    "title": "Hỏi và đáp công tác đảng trong đảng bộ quân đội",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1129",
+    "title": "Công tác Đảng, công tác chính trị tập 1",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1130",
+    "title": "Công tác Đảng, công tác chính trị tập 2",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1131",
+    "title": "Sổ tay công tác dân vận",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1132",
+    "title": "Tài liệu huấn luyện cứu hộ-cứu nạng phổ thông",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S1133",
+    "title": "Hội thảo khoa học lịch sử truyền thống chiến công của QĐNDVN và vai trò của cán bộ kỹ thuật trong xây dựng quân đội hiện đại",
+    "author": "BQP HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S1134",
+    "title": "Hỏi đáp về chủ quyền biển đảo trong luật quốc tế và pháp luật VN",
+    "author": "ThS Ngô Hữu Phước và ThS Lê Đức Phương",
+    "borrowed": false
+  },
+  {
+    "code": "S1135",
+    "title": "Tăng cường và đổi mới sự lãnh đạo của đảng đối với công tác dân vận trong tình hình hiện nay",
+    "author": "TS Lê Trung Kiên",
+    "borrowed": false
+  },
+  {
+    "code": "S1136",
+    "title": "Đảng vững mạnh đất nước phát triển dân tộc trường tồn",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S1137",
+    "title": "Điển hình tiên tiến học tập và làm theo tư tưởng đạo đức, phong cách HCM trong quân đội giai đoạn 21-23",
+    "author": "TCCT QDNDVN CỤC TUYÊN HUẤN",
+    "borrowed": false
+  },
+  {
+    "code": "S1138",
+    "title": "Cách mạng trong quân sự và những vấn đề đặt ra đối với QPVN",
+    "author": "BQP VIỆN CHIẾN LƯỢC QUÂN SỰ",
+    "borrowed": false
+  },
+  {
+    "code": "S1139",
+    "title": "Rừng có tiếng người",
+    "author": "Đinh Công Diệp",
+    "borrowed": false
+  },
+  {
+    "code": "S1140",
+    "title": "Tuyển tập các chuyên đề đạt giải cao tại hội thi tuyên truyền về học tập và làm theo phong cách HCM toàn quân 2017",
+    "author": "TCCT QDNDVN CỤC TUYÊN HUẤN",
+    "borrowed": false
+  },
+  {
+    "code": "S1141",
+    "title": "Văn kiện đảng toàn tập",
+    "author": "ĐCVN",
+    "borrowed": false
+  },
+  {
+    "code": "S1142",
+    "title": "Quan điểm thành tựu và định hướng xây dựng QDNDVN cách mạng chính quy tinh nhuệ từng bước hiện đại",
+    "author": "Đại tướng Phùng Quang Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S1143",
+    "title": "Lịch sử cục dân vận 1947-2017",
+    "author": "TCCT QDNDVN CỤC Dân Vận",
+    "borrowed": false
+  },
+  {
+    "code": "S1144",
+    "title": "Thượng Đức",
+    "author": "Nguyễn Bảo",
+    "borrowed": false
+  },
+  {
+    "code": "S1145",
+    "title": "Công tác dân vận và tuyên truyền đặc biệt trong QDNDVN 1947-2002",
+    "author": "TCCT CỤC DÂN VẬN VÀ TUYÊN TRUYỀN ĐẶC BIỆT",
+    "borrowed": false
+  },
+  {
+    "code": "S1146",
+    "title": "Phát huy phẩm chất bộ đội cụ Hồ tiếp tục xây dựng quân đội vững mạnh về chính trị trong tình hình mới",
+    "author": "Đại tướng Lương Cường",
+    "borrowed": false
+  },
+  {
+    "code": "S1147",
+    "title": "Sổ tay báo cáo viên 2007",
+    "author": "Ban tư tưởng văn hoá TW Trung tâm thông tin công tác tư tưởng",
+    "borrowed": false
+  },
+  {
+    "code": "S1148",
+    "title": "Lịch sử Đảng bộ HVKTQS 1966-2006",
+    "author": "HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S1149",
+    "title": "Quan hệ đặc biệt hợp tác toàn diện VN-Lào 1954-2017",
+    "author": "PGS.TS Lê Đình Chỉnh",
+    "borrowed": false
+  },
+  {
+    "code": "S1150",
+    "title": "Cách mạng tháng 8",
+    "author": "Trường Chinh",
+    "borrowed": false
+  },
+  {
+    "code": "S1151",
+    "title": "Đội VN tuyên truyền giải phóng quân",
+    "author": "BTTM QDNDVN Viện Lịch sử QS",
+    "borrowed": false
+  },
+  {
+    "code": "S1152",
+    "title": "Đảng lãnh đạo xây dựng LLVT và đấu tranh vũ trang trong cuộc vận động CMT8 1945",
+    "author": "PGS.TS Trần Trọng Thơ",
+    "borrowed": false
+  },
+  {
+    "code": "S1153",
+    "title": "Thời cuộc và văn hoá",
+    "author": "Hồ Quang Lợi",
+    "borrowed": false
+  },
+  {
+    "code": "S1154",
+    "title": "HCM nhà tư tưởng thiên tài",
+    "author": "GS Trần Nhâm",
+    "borrowed": false
+  },
+  {
+    "code": "S1155",
+    "title": "Tổng kết CTĐ-CTCT của HVKTQS trong thực hiện nhiệm vụ phòng chống DBHB 1975-2016",
+    "author": "HVKTQS",
+    "borrowed": false
+  },
+  {
+    "code": "S1156",
+    "title": "Nghiệp vụ công tác tuyên huấn trong QDNDVN",
+    "author": "TCCT QDNDVN CỤC TUYÊN HUẤN",
+    "borrowed": false
+  },
+  {
+    "code": "S1157",
+    "title": "TCCT quá trình hình thành phát triển tổ chức và chỉ đạo CTĐ-CTCT trong QĐ tập 3 quyển 2 1986-1996",
+    "author": "QDNDVN",
+    "borrowed": false
+  },
+  {
+    "code": "S1158",
+    "title": "Sáng mãi phẩm chất BDCH tập 15",
+    "author": "Nhiều tác giả",
+    "borrowed": false
+  },
+  {
+    "code": "S1159",
+    "title": "Sổ tay báo cáo viên 2008",
+    "author": "Ban tuyên giáo TW Trung tâm thông tin công tác tuyên giáo",
+    "borrowed": false
+  },
+  {
+    "code": "S1160",
+    "title": "Quan điểm về xây dựng và phát huy giá trị văn hoá sức mạnh con người VN trong văn kiện ĐH 13 của Đảng",
+    "author": "BQP Học viện Chính trị",
+    "borrowed": false
+  },
+  {
+    "code": "S1161",
+    "title": "Xây dựng lực lượng hậu cần QDNDVN 1969-1975",
+    "author": "4// TS. Nguyền Hữu Hoạc",
+    "borrowed": false
+  },
+  {
+    "code": "S1162",
+    "title": "Một số văn bản về thực hiện dân chủ cơ sở",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1163",
+    "title": "Tình đoàn kết chiến đấu VN-Lào-CPC trong lịch sử",
+    "author": "4// TS. Dương Đình Lập",
+    "borrowed": false
+  },
+  {
+    "code": "S1164",
+    "title": "Định hướng thị hiếu thẩm mỹ của học viên các trường QĐ hiện nay",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1165",
+    "title": "Văn kiện ĐH đại biểu ĐTNCSHCM QĐ lần thứ 9 2017-2022",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1166",
+    "title": "Đường lối binh vận của Đảng 1930-1975",
+    "author": "ThS Trần Thị Thuý Nga, TS Nguyễn Thị Hồng Phương và ThS Phạm Thanh Thuỷ",
+    "borrowed": false
+  },
+  {
+    "code": "S1167",
+    "title": "Những kho báo của nhân loại di sản thế giới, tập 2",
+    "author": "Vương Anh",
+    "borrowed": false
+  },
+  {
+    "code": "S1168",
+    "title": "Phòng chống \"DBHB\" trong sự nghiệp xây dựng và bảo vệ TQ, tập 2, Phòng chống \"DBHB\" trên lĩnh vực kinh tế",
+    "author": "Thiếu tướng, PGS.TS NGND Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S1169",
+    "title": "Về đạo đức cách mạng",
+    "author": "HCM",
+    "borrowed": false
+  },
+  {
+    "code": "S1170",
+    "title": "Phòng chống \"DBHB\" trong sự nghiệp xây dựng và bảo vệ TQ, tập 3, Phòng chống \"DBHB\" trên lĩnh vực chính trị tư tưởng",
+    "author": "Thiếu tướng, PGS.TS NGND Nguyễn Bá Dương",
+    "borrowed": false
+  },
+  {
+    "code": "S1171",
+    "title": "Đổi mới công tác tuyên truyền vận động nhân dân các đơn vị QĐ trên địa bàn TP HN hiện nay",
+    "author": "3//, ThS Nguyễn Minh Cường",
+    "borrowed": false
+  },
+  {
+    "code": "S1172",
+    "title": "Tư tưởng HCM về môi trường và bảo vệ môi trường",
+    "author": "Mạc Doãn Thanh",
+    "borrowed": false
+  },
+  {
+    "code": "S1173",
+    "title": "Mãi mãi học tập và làm theo tấm gương đạo đức HCM",
+    "author": "",
+    "borrowed": false
+  },
+  {
+    "code": "S1174",
+    "title": "Đổi mới ở VN từ dấu mốc 1986 chuyển động thành tựu và bản sắc",
+    "author": "Phùng Văn Khai",
+    "borrowed": false
+  },
+  {
+    "code": "S1175",
+    "title": "Đề cương tuyên truyền LLVT thủ đô HN 70 năm xây dựng chiến đấu và trưởng thành 19/10/1946-19/10/2016",
+    "author": "BTL Thủ Đô HN",
+    "borrowed": false
+  },
+  {
+    "code": "S1176",
+    "title": "Những nội dung cơ bản của tư tưởng đạo đức phong cách HCM",
+    "author": "Ban tuyên giáo TW",
+    "borrowed": false
+  },
+  {
+    "code": "S1177",
+    "title": "Kiến thức và kỹ năng công tác đoàn",
+    "author": "TCCT Ban thanh niên QĐ",
+    "borrowed": false
+  },
+  {
+    "code": "S1178",
+    "title": "Công tác tuyên truyền báo chí trong phòng chống dịch covid-19",
+    "author": "BTTM",
+    "borrowed": false
+  },
+  {
+    "code": "S1179",
+    "title": "100 tình huốn tư tưởng có thể nảy sinh ở đơn vị và gợi ý biện pháp xử lý của cán bộ cơ sở, tập 1",
+    "author": "TCCT Cục Tuyên Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1180",
+    "title": "Tài liệu tuyên truyền kỷ niệm 40 ngày giải phóng hoàn toàn MN thống nhất ĐN 30/4/1975-30/4/2015",
+    "author": "TCCT",
+    "borrowed": false
+  },
+  {
+    "code": "S1181",
+    "title": "Tài liệu phổ biến giáo dục PL năm 2007",
+    "author": "TCCT Cục Tư Tưởng Văn Hoá",
+    "borrowed": false
+  },
+  {
+    "code": "S1182",
+    "title": "Hãy cảnh giác với \"DBHB\" chống phá VN",
+    "author": "Trung tướng, PGS.TS Nguyễn Đình Minh",
+    "borrowed": false
+  },
+  {
+    "code": "S1183",
+    "title": "Xây dựng chỉnh đốn Đảng là nhiệm vụ then chốt để phát triển đất nước",
+    "author": "Nguyễn Phú Trọng",
+    "borrowed": false
+  },
+  {
+    "code": "S1184",
+    "title": "100 tình huốn tư tưởng có thể nảy sinh ở đơn vị và gợi ý biện pháp xử lý của cán bộ cơ sở, tập 2",
+    "author": "TCCT Cục Tuyên Huấn",
+    "borrowed": false
+  },
+  {
+    "code": "S1185",
+    "title": "Đề cương tuyên truyền kỹ niệm 60 năm chiến thắng ĐBP 7/5/1954-7/5/2014",
+    "author": "TCCT Cục Tuyên Huấn",
+    "borrowed": false
+  }
+]
