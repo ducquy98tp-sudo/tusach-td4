@@ -1,3 +1,4 @@
+<!-- Updated HTML with editable borrow date for admin -->
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -29,15 +30,14 @@ tr:hover { background: #eef2d5; }
 .input-row { margin:10px 0; }
 .input-row input, .input-row select { width:100%; padding:10px; border:1px solid #777; border-radius:6px; }
 .action-btn { background:#556b2f; color:white; padding:10px; border:none; width:100%; margin-top:10px; border-radius:6px; }
+.editable-date { width: 140px; }
 </style>
 </head>
 <body>
 <header style="display:flex;align-items:center;gap:20px;justify-content:center;">
-  <img src="https://raw.githubusercontent.com/ducquy98tp-sudo/tusach-td4/main/logo_cropped_round.png" 
-       style="height:50px;object-fit:contain;">
+  <img src="https://raw.githubusercontent.com/ducquy98tp-sudo/tusach-td4/main/logo_cropped_round.png" style="height:50px;object-fit:contain;">
   <span style="font-size:22px;"> Tủ Sách Tiểu Đoàn 4</span>
-  <img src="https://raw.githubusercontent.com/ducquy98tp-sudo/tusach-td4/main/pngtree-book-pencil-study-book-png-image_4507678.jpg"
-       style="height:50px;object-fit:contain;">
+  <img src="https://raw.githubusercontent.com/ducquy98tp-sudo/tusach-td4/main/pngtree-book-pencil-study-book-png-image_4507678.jpg" style="height:50px;object-fit:contain;">
 </header>
 <div style="padding:10px; background:#f3f4e7; text-align:center;">
   <input id="adminPass" type="password" placeholder="Nhập mật khẩu quản lý..." style="padding:10px;width:70%;border-radius:6px;border:1px solid #666;">
@@ -52,24 +52,20 @@ tr:hover { background: #eef2d5; }
 
 <!-- DANH MỤC SÁCH -->
 <div id="books" class="section active">
-  <div class="search-box">
-    <input id="searchInput" placeholder="🔎 Tìm kiếm sách..." onkeyup="searchBooks()">
-  </div>
+  <div class="search-box"><input id="searchInput" placeholder="🔎 Tìm kiếm sách..." onkeyup="searchBooks()"></div>
   <div class="filters">
     <select id="authorFilter" onchange="applyFilters()"><option value="">Lọc theo tác giả</option></select>
     <select id="yearFilter" onchange="applyFilters()"><option value="">Lọc theo năm</option></select>
   </div>
   <div class="stats" id="statsBox">Tổng số sách: 0 • Đang mượn: 0</div>
   <table>
-    <thead>
-      <tr><th>Mã</th><th>Sách</th><th>Tác giả</th></tr>
-    </thead>
+    <thead><tr><th>Mã</th><th>Sách</th><th>Tác giả</th></tr></thead>
     <tbody id="bookTable"></tbody>
   </table>
-  <div class="pagination" id="pagination"></div>" id="pagination"></div>
+  <div class="pagination" id="pagination"></div>
 </div>
 
-<!-- QUẢN LÝ MƯỢN TRẢ -->
+<!-- MƯỢN TRẢ -->
 <div id="borrow" class="section">
   <h3>Mượn sách</h3>
   <div class="input-row"><select id="borrowBook"></select></div>
@@ -91,14 +87,12 @@ tr:hover { background: #eef2d5; }
 let adminMode = false;
 const ADMIN_PASSWORD = "ngducquy";
 function checkAdmin(){
-  let p = document.getElementById('adminPass').value;
-  if(p === ADMIN_PASSWORD){
+  if(document.getElementById('adminPass').value === ADMIN_PASSWORD){
     adminMode = true;
     document.getElementById('mainTabs').style.display = 'flex';
     alert('Đăng nhập quản lý thành công!');
-  } else {
-    alert('Sai mật khẩu!');
-  }
+    renderBorrowTable();
+  } else alert('Sai mật khẩu!');
 }
 
 let books = [];
@@ -110,84 +104,82 @@ fetch('books.json')
   .then(res => res.json())
   .then(data => { books = data; loadBooks(); loadBorrowDropdown(); });
 
-function loadBooks() {
+function loadBooks(){
   let table = document.getElementById('bookTable');
   table.innerHTML = '';
   let start = (currentPage - 1) * itemsPerPage;
   let end = start + itemsPerPage;
-  let pageItems = books.slice(start, end);
-
-  pageItems.forEach(b => {
+  books.slice(start, end).forEach(b => {
     table.innerHTML += `<tr><td>${b.code}</td><td>${b.title}</td><td>${b.author}</td></tr>`;
   });
-
   loadPagination();
 }
-
-function loadPagination() {
-  let totalPages = Math.ceil(books.length / itemsPerPage);
+function loadPagination(){
   let pag = document.getElementById('pagination');
-  pag.innerHTML = '';
+  pag.innerHTML='';
+  let totalPages = Math.ceil(books.length / itemsPerPage);
+  for(let i=1;i<=totalPages;i++) pag.innerHTML += `<button onclick="gotoPage(${i})">${i}</button>`;
+}
+function gotoPage(p){ currentPage=p; loadBooks(); }
 
-  for (let i = 1; i <= totalPages; i++) {
-    pag.innerHTML += `<button onclick="gotoPage(${i})" class="${i===currentPage?'active':''}">${i}</button>`;
-  }
+function searchBooks(){
+  let txt = document.getElementById('searchInput').value.toLowerCase();
+  books = books.filter(b => b.title.toLowerCase().includes(txt));
+  currentPage=1; loadBooks();
 }
 
-function gotoPage(p) { currentPage = p; loadBooks(); }
-
-function searchBooks() {
-  let text = document.getElementById('searchInput').value.toLowerCase();
-  books = books.filter(b => b.title.toLowerCase().includes(text));
-  currentPage = 1; loadBooks();
-}
-
-function openTab(id) {
-  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
-  document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+function openTab(id){
+  document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
+  document.querySelectorAll('.tabs button').forEach(b=>b.classList.remove('active'));
   event.target.classList.add('active');
 }
 
-function loadBorrowDropdown() {
+function loadBorrowDropdown(){
   let dropdown = document.getElementById('borrowBook');
-  dropdown.innerHTML = '';
-  books.forEach((b,i)=>dropdown.innerHTML += `<option value="${i}">${b.title}</option>`);
+  dropdown.innerHTML = books.map((b,i)=>`<option value="${i}">${b.title}</option>`).join('');
 }
 
-function borrowBookAction() {
+function borrowBookAction(){
   let idx = document.getElementById('borrowBook').value;
   let borrower = document.getElementById('borrower').value.trim();
-  if (!borrower) return alert('Nhập tên người mượn');
+  if(!borrower) return alert('Nhập tên người mượn');
 
   borrowList.push({
     title: books[idx].title,
     borrower,
     unit: document.getElementById('unit').value,
     note: document.getElementById('note').value,
-    date: new Date().toLocaleDateString('vi-VN')
+    date: new Date().toISOString().split('T')[0]
   });
 
   renderBorrowTable();
-  document.getElementById('borrower').value = '';
-  document.getElementById('unit').value = '';
-  document.getElementById('note').value = '';
 }
 
-function renderBorrowTable() {
+function renderBorrowTable(){
   let tb = document.getElementById('borrowTable');
   tb.innerHTML = '';
+
   borrowList.forEach((b,i)=>{
+    let dateCell = adminMode
+      ? `<input type='date' class='editable-date' value='${b.date}' onchange='updateDate(${i}, this.value)'>`
+      : b.date;
+
     tb.innerHTML += `<tr>
       <td>${b.title}</td>
       <td>${b.borrower}</td>
       <td>${b.unit}</td>
-      <td>${b.date}</td>
-      <td><button onclick="removeBorrow(${i})">❌</button></td></tr>`;
+      <td>${dateCell}</td>
+      <td><button onclick='removeBorrow(${i})'>❌</button></td>
+    </tr>`;
   });
 }
 
-function removeBorrow(i) {
+function updateDate(i, newDate){
+  borrowList[i].date = newDate;
+}
+
+function removeBorrow(i){
   borrowList.splice(i,1);
   renderBorrowTable();
 }
